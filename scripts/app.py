@@ -56,25 +56,27 @@ from scripts.details import competitor_details
 from scripts.country_analysis import country_analysis
 from scripts.leaderboards import leaderboards
 
-# Custom CSS for sidebar
+# Custom CSS for sidebar and page background
 st.markdown("""
     <style>
-    .sidebar .sidebar-content {
-        background-color: #F0F2F6;
-        color: #2E2E2E;
-        padding: 10px;
+    .reportview-container, .main, .block-container {
+        background-color: #E4D9E6;
+    }
+    .css-1d391kg {
+        background-color: #F0DEF5;
     }
     .sidebar .sidebar-content h1 {
         font-size: 24px;
         font-weight: bold;
-        color: #FF5733;
+        color: #6A0572;
     }
     .sidebar .sidebar-content .element-container {
         margin-bottom: 20px;
     }
-    .sidebar .sidebar-content .stButton {
+    .sidebar .sidebar-content .stButton button {
         font-size: 18px;
-        color: #2E86C1;
+        color: #6A0572;
+        background-color: #E4A6F0;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -91,21 +93,9 @@ pages = {
 }
 
 # Navigation with radio buttons
-page = st.sidebar.radio("Go to", list(pages.keys()))
+page = st.sidebar.radio("Navigate to", list(pages.keys()))
 
 # Main Content
 st.title(page)
 st.write(f"Welcome to the {page.split()[1].lower()} page!")
 pages[page](engine)
-
-# Custom CSS for better styling
-st.markdown("""
-    <style>
-    .reportview-container {
-        background: #f0f2f6;
-    }
-    .sidebar .sidebar-content {
-        background: #dfe3e8;
-    }
-    </style>
-    """, unsafe_allow_html=True)
