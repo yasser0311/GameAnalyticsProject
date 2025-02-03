@@ -59,3 +59,13 @@ Follow these steps to set up and run the project:
   - Get All Competitors with Rank and Points, Find Competitors Ranked in the Top 5, List Competitors with No Rank Movement (Stable Rank), Get Total Points of Competitors from a Specific Country, Count the Number of Competitors per Country and Find Competitors with the Highest Points in the Current Week
   7. **Overview and About**
   -Project Summary and Details, Skills Takeaway From This Project, Domain, Technical tags and Problem Statement
+
+![GameAnalytics Homepage](https://github.com/user-attachments/assets/26e6a689-f3a8-46e4-b7d1-668c2491b38c)
+![GameAnalytics Search   Filter](https://github.com/user-attachments/assets/490054be-b5eb-4fc2-a749-acb36e866324)
+![GameAnalytics Countrywise Analysis](https://github.com/user-attachments/assets/a05cc626-d1a6-4044-b6c9-da767814fd83)
+![GameAnalytics Leaderboard](https://github.com/user-attachments/assets/403ecbc6-f19f-4040-b966-9ab81ca2c6a5)
+![GameAnalytics Leaderboard2](https://github.com/user-attachments/assets/00f8895c-8392-4bb1-bf1f-dfd7d4458b5a)
+![Competitor Analysis](https://github.com/user-attachments/assets/b9fea7e2-3e97-4503-874c-8f701978d3f9)
+![Competition Analysis](https://github.com/user-attachments/assets/283f9fb6-dc73-4014-af23-81569076b918)
+![Complexes Analysis](https://github.com/user-attachments/assets/ea8240ed-c6ed-4669-837a-2d9fddcdcdc8)
+![Overview   About](https://github.com/user-attachments/assets/4af20389-a7e9-49c2-b229-537ff3b7686f)
