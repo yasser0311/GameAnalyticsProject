@@ -1,0 +1,1001 @@
+type_id,name,year,week,gender,rank,movement,points,competitions_played,competitor_id,competitor_name,country_name,country_code,abbreviation
+2,ATP,2025,6,men,1,0,7530,22,sr:competitor:49363,"Pavic, Mate",Croatia,HRV,PAV
+2,ATP,2025,6,men,1,0,7530,22,sr:competitor:51836,"Arevalo-Gonzalez, Marcelo",El Salvador,SLV,ARE
+2,ATP,2025,6,men,3,0,7075,30,sr:competitor:637970,"Patten, Henry",Great Britain,GBR,PAT
+2,ATP,2025,6,men,4,0,7055,28,sr:competitor:14898,"Heliovaara, Harri",Finland,FIN,HEL
+2,ATP,2025,6,men,5,0,6475,21,sr:competitor:87690,"Thompson, Jordan",Australia,AUS,THO
+2,ATP,2025,6,men,6,0,6240,20,sr:competitor:36593,"Krawietz, Kevin",Germany,DEU,KRA
+2,ATP,2025,6,men,7,0,6170,16,sr:competitor:15568,"Granollers, Marcel",Spain,ESP,GRA
+2,ATP,2025,6,men,7,0,6170,16,sr:competitor:16160,"Zeballos, Horacio",Argentina,ARG,ZEB
+2,ATP,2025,6,men,9,0,6150,19,sr:competitor:52293,"Putz, Tim",Germany,DEU,PUT
+2,ATP,2025,6,men,10,0,5990,20,sr:competitor:15310,"Bolelli, Simone",Italy,ITA,BOL
+2,ATP,2025,6,men,11,0,5990,22,sr:competitor:95801,"Vavassori, Andrea",Italy,ITA,VAV
+2,ATP,2025,6,men,12,0,5750,24,sr:competitor:16608,"Mektic, Nikola",Croatia,HRV,MEK
+2,ATP,2025,6,men,13,0,5550,19,sr:competitor:124658,"Purcell, Max",Australia,AUS,PUR
+2,ATP,2025,6,men,14,0,5545,21,sr:competitor:50954,"Koolhof, Wesley",Netherlands,NLD,KOO
+2,ATP,2025,6,men,15,0,4025,28,sr:competitor:16151,"Venus, Michael",New Zealand,NZL,VEN
+2,ATP,2025,6,men,16,0,3580,27,sr:competitor:53785,"Skupski, Neal",Great Britain,GBR,SKU
+2,ATP,2025,6,men,17,0,3230,34,sr:competitor:55989,"Withrow, Jackson",USA,USA,WIT
+2,ATP,2025,6,men,17,0,3230,34,sr:competitor:210736,"Lammons, Nathaniel",USA,USA,LAM
+2,ATP,2025,6,men,19,0,3120,34,sr:competitor:59131,"Glasspool, Lloyd",Great Britain,GBR,GLA
+2,ATP,2025,6,men,20,0,3105,20,sr:competitor:16409,"Ebden, Matthew",Australia,AUS,EBD
+2,ATP,2025,6,men,21,0,3000,20,sr:competitor:15307,"Bopanna, Rohan",India,IND,BRO
+2,ATP,2025,6,men,22,0,2970,24,sr:competitor:38181,"Molteni, Andres",Argentina,ARG,MOL
+2,ATP,2025,6,men,23,1,2875,33,sr:competitor:108099,"Cash, Julian",Great Britain,GBR,CAS
+2,ATP,2025,6,men,24,1,2870,27,sr:competitor:52202,"Nys, Hugo",Monaco,MCO,NYS
+2,ATP,2025,6,men,25,1,2800,28,sr:competitor:47834,"Murray, Jamie",Great Britain,GBR,MUR
+2,ATP,2025,6,men,26,1,2790,19,sr:competitor:15548,"Gonzalez, Maximo",Argentina,ARG,GON
+2,ATP,2025,6,men,27,1,2760,26,sr:competitor:16275,"Dodig, Ivan",Croatia,HRV,DOD
+2,ATP,2025,6,men,28,-5,2750,28,sr:competitor:106349,"Reboul, Fabien",France,FRA,REB
+2,ATP,2025,6,men,29,0,2630,32,sr:competitor:206889,"Galloway, Robert",USA,USA,GAL
+2,ATP,2025,6,men,30,0,2600,25,sr:competitor:112805,"Zielinski, Jan",Poland,POL,ZIE
+2,ATP,2025,6,men,31,0,2595,23,sr:competitor:14553,"Ram, Rajeev",USA,USA,RAM
+2,ATP,2025,6,men,32,0,2550,26,sr:competitor:14835,"Roger-Vasselin, Edouard",France,FRA,ROG
+2,ATP,2025,6,men,33,1,2485,27,sr:competitor:81059,"Gille, Sander",Belgium,BEL,GIL
+2,ATP,2025,6,men,34,1,2445,31,sr:competitor:56629,"Peers, John",Australia,AUS,PEE
+2,ATP,2025,6,men,35,1,2440,27,sr:competitor:104917,"Vliegen, Joran",Belgium,BEL,VLI
+2,ATP,2025,6,men,36,-3,2415,33,sr:competitor:106559,"Doumbia, Sadio",France,FRA,DOU
+2,ATP,2025,6,men,37,0,2325,26,sr:competitor:59324,"Pavlasek, Adam",Czechia,CZE,PAV
+2,ATP,2025,6,men,38,0,2302,27,sr:competitor:76263,"Matos, Rafael",Brazil,BRA,MAT
+2,ATP,2025,6,men,39,0,2295,26,sr:competitor:16124,"Melo, Marcelo",Brazil,BRA,MEL
+2,ATP,2025,6,men,40,0,2190,28,sr:competitor:230186,"Verbeek, Sem",Netherlands,NLD,VER
+2,ATP,2025,6,men,41,0,2160,22,sr:competitor:25189,"Krajicek, Austin",USA,USA,KRA
+2,ATP,2025,6,men,42,0,2152,29,sr:competitor:114831,"Erler, Alexander",Austria,AUT,ERL
+2,ATP,2025,6,men,43,0,2130,20,sr:competitor:74173,"Salisbury, Joe",Great Britain,GBR,SAL
+2,ATP,2025,6,men,44,0,2038,30,sr:competitor:78793,"Miedler, Lucas",Austria,AUT,MIE
+2,ATP,2025,6,men,45,1,1931,27,sr:competitor:45105,"Behar, Ariel",Uruguay,URY,BEH
+2,ATP,2025,6,men,46,1,1895,27,sr:competitor:22967,"Bhambri, Yuki",India,IND,BHA
+2,ATP,2025,6,men,47,1,1895,30,sr:competitor:70348,"Goransson, Andre",Sweden,SWE,GOR
+2,ATP,2025,6,men,48,1,1890,30,sr:competitor:15305,"Gonzalez, Santiago",Mexico,MEX,GON
+2,ATP,2025,6,men,49,-4,1835,26,sr:competitor:47966,"Olivetti, Albano",France,FRA,OLI
+2,ATP,2025,6,men,50,1,1770,34,sr:competitor:48646,"Barrientos, Nicolas",Colombia,COL,BAR
+2,ATP,2025,6,men,51,-1,1765,32,sr:competitor:66864,"Arends, Sander",Netherlands,NLD,ARE
+2,ATP,2025,6,men,52,1,1718,33,sr:competitor:62410,"Johnson, Luke",Great Britain,GBR,JOH
+2,ATP,2025,6,men,53,-1,1680,32,sr:competitor:15588,"Rojer, Jean-Julien",Netherlands,NLD,ROJ
+2,ATP,2025,6,men,54,0,1606,34,sr:competitor:108755,"Jebens, Hendrik",Germany,DEU,JEB
+2,ATP,2025,6,men,54,0,1606,34,sr:competitor:231188,"Frantzen, Constantin",Germany,DEU,FRA
+2,ATP,2025,6,men,56,0,1580,34,sr:competitor:69362,"Mansouri, Skander",Tunisia,TUN,MAN
+2,ATP,2025,6,men,57,0,1575,33,sr:competitor:47295,"Andreozzi, Guido",Argentina,ARG,AND
+2,ATP,2025,6,men,58,0,1467,32,sr:competitor:49306,"Reyes-Varela, Miguel",Mexico,MEX,REY
+2,ATP,2025,6,men,59,2,1460,32,sr:competitor:81763,"Jacq, Gregoire",France,FRA,JAC
+2,ATP,2025,6,men,60,3,1435,35,sr:competitor:111195,"Luz, Orlando",Brazil,BRA,LUZ
+2,ATP,2025,6,men,61,-2,1419,32,sr:competitor:127646,"Cabral, Francisco",Portugal,PRT,CAB
+2,ATP,2025,6,men,62,-2,1401,26,sr:competitor:25457,"Nedovyesov, Aleksandr",Kazakhstan,KAZ,NED
+2,ATP,2025,6,men,63,-1,1380,25,sr:competitor:16198,"Escobar, Gonzalo",Ecuador,ECU,ESC
+2,ATP,2025,6,men,64,6,1366,31,sr:competitor:16042,"Haase, Robin",Netherlands,NLD,HAA
+2,ATP,2025,6,men,65,-1,1316,32,sr:competitor:52244,"Balaji, N. Sriram",India,IND,BAL
+2,ATP,2025,6,men,66,-1,1310,43,sr:competitor:231090,"Arribage, Theo",France,FRA,ARR
+2,ATP,2025,6,men,67,-1,1285,11,sr:competitor:300540,"Machac, Tomas",Czechia,CZE,MAC
+2,ATP,2025,6,men,68,-1,1270,10,sr:competitor:203681,"Korda, Sebastian",USA,USA,KOR
+2,ATP,2025,6,men,69,-1,1270,25,sr:competitor:104421,"Mies, Andreas",Germany,DEU,MIE
+2,ATP,2025,6,men,70,4,1266,25,sr:competitor:121182,"Guinard, Manuel",France,FRA,GUI
+2,ATP,2025,6,men,71,-2,1240,10,sr:competitor:75813,"Zhang, Zhizhen",China,CHN,ZHA
+2,ATP,2025,6,men,72,-1,1190,29,sr:competitor:41475,"Arneodo, Romain",Monaco,MCO,ARN
+2,ATP,2025,6,men,73,-1,1185,28,sr:competitor:17038,"Smith, John-Patrick",Australia,AUS,SMI
+2,ATP,2025,6,men,74,1,1155,30,sr:competitor:152900,"Rikl, Patrik",Czechia,CZE,RIK
+2,ATP,2025,6,men,75,4,1132,33,sr:competitor:918463,"Bollipalli, Rithvik Choudary",India,IND,BOL
+2,ATP,2025,6,men,76,4,1130,30,sr:competitor:16043,"Middelkoop, Matwe",Netherlands,NLD,MID
+2,ATP,2025,6,men,77,-1,1120,37,sr:competitor:52065,"Harrison, Christian",USA,USA,HAR
+2,ATP,2025,6,men,78,3,1118,38,sr:competitor:23899,"King, Evan",USA,USA,KIN
+2,ATP,2025,6,men,79,-6,1112,32,sr:competitor:204781,"Nouza, Petr",Czechia,CZE,NOU
+2,ATP,2025,6,men,80,-3,1103,41,sr:competitor:112969,"Schnaitter, Jakob",Germany,DEU,SCH
+2,ATP,2025,6,men,80,-3,1103,41,sr:competitor:936355,"Wallner, Mark",Germany,DEU,WAL
+2,ATP,2025,6,men,82,0,1056,33,sr:competitor:287215,"Seggerman, Ryan",USA,USA,SEG
+2,ATP,2025,6,men,83,0,1042,28,sr:competitor:76361,"Kadhe, Arjun",India,IND,KAD
+2,ATP,2025,6,men,84,0,1039,33,sr:competitor:223868,"Matuszewski, Piotr",Poland,POL,MAT
+2,ATP,2025,6,men,85,0,1035,29,sr:competitor:52263,"Hidalgo, Diego",Ecuador,ECU,HID
+2,ATP,2025,6,men,86,0,1030,12,sr:competitor:63438,"McDonald, Mackenzie",USA,USA,MCD
+2,ATP,2025,6,men,87,1,1016,39,sr:competitor:147104,"Romios, Matthew Christopher",Australia,AUS,ROM
+2,ATP,2025,6,men,88,-1,968,39,sr:competitor:77653,"Cornea, Victor",Romania,ROU,COR
+2,ATP,2025,6,men,89,0,960,7,sr:competitor:57163,"Zverev, Alexander",Germany,DEU,ZVE
+2,ATP,2025,6,men,90,14,920,16,sr:competitor:122368,"Griekspoor, Tallon",Netherlands,NLD,GRI
+2,ATP,2025,6,men,91,-1,915,9,sr:competitor:871495,"Michelsen, Alex",USA,USA,MIC
+2,ATP,2025,6,men,92,-1,901,29,sr:competitor:197678,"Tsitsipas, Petros",Greece,GRC,TSI
+2,ATP,2025,6,men,93,12,898,33,sr:competitor:234124,"Stevens, Bart",Netherlands,NLD,STE
+2,ATP,2025,6,men,94,-1,898,36,sr:competitor:73572,"Zormann, Marcelo",Brazil,BRA,ZOR
+2,ATP,2025,6,men,95,2,885,40,sr:competitor:16823,"Romboli, Fernando",Brazil,BRA,ROM
+2,ATP,2025,6,men,96,-2,882,35,sr:competitor:16492,"Eysseric, Jonathan",France,FRA,EYS
+2,ATP,2025,6,men,97,-2,878,34,sr:competitor:1020797,"Trhac, Patrik",USA,USA,TRH
+2,ATP,2025,6,men,98,-6,877,33,sr:competitor:16992,"Willis, Marcus",Great Britain,GBR,WIL
+2,ATP,2025,6,men,99,-3,855,13,sr:competitor:808628,"Shelton, Ben",USA,USA,SHE
+2,ATP,2025,6,men,100,-2,847,19,sr:competitor:299130,"Hijikata, Rinky",Australia,AUS,HIJ
+2,ATP,2025,6,men,101,-2,841,37,sr:competitor:121032,"Stalder, Reese",USA,USA,STA
+2,ATP,2025,6,men,102,-2,834,29,sr:competitor:60920,"Nedunchezhiyan, Jeevan",India,IND,NED
+2,ATP,2025,6,men,103,-2,830,35,sr:competitor:98413,"Drzewiecki, Karol",Poland,POL,DRZ
+2,ATP,2025,6,men,104,42,820,5,sr:competitor:102339,"Van de Zandschulp, Botic",Netherlands,NLD,VAN
+2,ATP,2025,6,men,105,-3,789,26,sr:competitor:113221,"Niklas-Salminen, Patrik",Finland,FIN,NIK
+2,ATP,2025,6,men,106,0,760,13,sr:competitor:102151,"Tabilo, Alejandro",Chile,CHL,TAB
+2,ATP,2025,6,men,107,2,757,34,sr:competitor:50037,"Bortolotti, Marco",Italy,ITA,BOR
+2,ATP,2025,6,men,108,0,742,34,sr:competitor:16854,"Molchanov, Denys",Ukraine,UKR,MOL
+2,ATP,2025,6,men,109,17,740,20,sr:competitor:838776,"Tracy, James",USA,USA,TRA
+2,ATP,2025,6,men,110,1,739,37,sr:competitor:157396,"Veldheer, Mick",Netherlands,NLD,VEL
+2,ATP,2025,6,men,111,1,732,18,sr:competitor:35766,"Begemann, Andre",Germany,DEU,BEG
+2,ATP,2025,6,men,112,1,730,24,sr:competitor:263917,"Draxl, Liam",Canada,CAN,DRA
+2,ATP,2025,6,men,113,11,729,25,sr:competitor:16573,"Demoliner, Marcelo",Brazil,BRA,DEM
+2,ATP,2025,6,men,114,0,726,36,sr:competitor:119150,"Fancutt, Thomas",Australia,AUS,FAN
+2,ATP,2025,6,men,115,0,720,15,sr:competitor:163480,"Bublik, Alexander",Kazakhstan,KAZ,BUB
+2,ATP,2025,6,men,116,-6,717,36,sr:competitor:77011,"Martos Gornes, Sergio",Spain,ESP,MAR
+2,ATP,2025,6,men,117,-1,706,36,sr:competitor:145936,"Kaliyanda Poonacha, Niki",India,IND,KAL
+2,ATP,2025,6,men,118,-15,705,18,sr:competitor:39712,"Saville, Luke",Australia,AUS,SAV
+2,ATP,2025,6,men,119,21,702,22,sr:competitor:52951,"Pel, David",Netherlands,NLD,PEL
+2,ATP,2025,6,men,120,-3,701,35,sr:competitor:37637,"Zeballos, Federico",Bolivia,BOL,ZEB
+2,ATP,2025,6,men,120,-3,701,35,sr:competitor:54609,"Arias, Boris",Bolivia,BOL,ARI
+2,ATP,2025,6,men,122,-3,695,28,sr:competitor:53759,"Prashanth, N. Vijay Sundar",India,IND,PRA
+2,ATP,2025,6,men,123,-2,684,23,sr:competitor:305776,"Soto, Matias",Chile,CHL,SOT
+2,ATP,2025,6,men,124,17,684,28,sr:competitor:243522,"Paul, Jakub",Switzerland,CHE,PAU
+2,ATP,2025,6,men,125,14,681,14,sr:competitor:393598,"Cash, Robert",USA,USA,CAS
+2,ATP,2025,6,men,126,-4,676,32,sr:competitor:42151,"Nam, Ji Sung",Republic of Korea,KOR,NAM
+2,ATP,2025,6,men,127,-4,675,9,sr:competitor:90080,"Khachanov, Karen",Neutral,,KHA
+2,ATP,2025,6,men,128,-3,669,39,sr:competitor:256001,"Ho, Ray",Chinese Taipei,TPE,RAY
+2,ATP,2025,6,men,129,2,663,34,sr:competitor:209202,"Chandrasekar, Anirudh",India,IND,CHA
+2,ATP,2025,6,men,130,-3,659,36,sr:competitor:69910,"Bergevi, Filip",Sweden,SWE,BER
+2,ATP,2025,6,men,131,-3,652,22,sr:competitor:450383,"Harper, Cleeve",Canada,CAN,HAR
+2,ATP,2025,6,men,132,-3,650,2,sr:competitor:46391,"Struff, Jan-Lennard",Germany,DEU,STR
+2,ATP,2025,6,men,133,-3,648,29,sr:competitor:296270,"Stevenson, David",Great Britain,GBR,STE
+2,ATP,2025,6,men,134,-14,641,16,sr:competitor:405977,"Schoolkate, Tristan",Australia,AUS,SCH
+2,ATP,2025,6,men,135,-2,640,11,sr:competitor:14508,"Mahut, Nicolas",France,FRA,MAH
+2,ATP,2025,6,men,136,-2,630,10,sr:competitor:125006,"Borges, Nuno",Portugal,PRT,BOR
+2,ATP,2025,6,men,137,-1,620,37,sr:competitor:25458,"Martinez, Luis David",Venezuela,VEN,MAR
+2,ATP,2025,6,men,138,4,618,24,sr:competitor:234044,"Kirkov, Vasil",USA,USA,KIR
+2,ATP,2025,6,men,139,-4,618,31,sr:competitor:111607,"Ingildsen, Johannes",Denmark,DNK,ING
+2,ATP,2025,6,men,140,12,616,33,sr:competitor:95923,"Paris, Joshua",Great Britain,GBR,PAR
+2,ATP,2025,6,men,141,-34,610,20,sr:competitor:47760,"Weissborn, Tristan-Samuel",Austria,AUT,WEI
+2,ATP,2025,6,men,142,-5,609,30,sr:competitor:44637,"Rodriguez, Cristian",Colombia,COL,ROC
+2,ATP,2025,6,men,143,0,596,24,sr:competitor:58877,"Ramanathan, Ramkumar",India,IND,RAM
+2,ATP,2025,6,men,144,1,592,29,sr:competitor:240880,"Hilderbrand, Trey",USA,USA,HIL
+2,ATP,2025,6,men,145,-13,591,12,sr:competitor:134610,"Blumberg, William",USA,USA,BLU
+2,ATP,2025,6,men,146,2,580,27,sr:competitor:78387,"Hach Verdugo, Hans",Mexico,MEX,HAC
+2,ATP,2025,6,men,147,-3,579,26,sr:competitor:548169,"Yuzuki, Takeru",Japan,JPN,YUZ
+2,ATP,2025,6,men,148,3,575,24,sr:competitor:119140,"Ellis, Blake",Australia,AUS,ELL
+2,ATP,2025,6,men,149,-2,566,19,sr:competitor:15809,"Martin, Fabrice",France,FRA,MAR
+2,ATP,2025,6,men,150,0,563,35,sr:competitor:113889,"Liutarevich, Ivan",Neutral,,LIU
+2,ATP,2025,6,men,151,-13,548,32,sr:competitor:92845,"Goldhoff, George",USA,USA,GOL
+2,ATP,2025,6,men,152,1,538,22,sr:competitor:146040,"Gomez, Federico Agustin",Argentina,ARG,GOM
+2,ATP,2025,6,men,153,2,536,25,sr:competitor:124708,"Cukierman, Daniel",Israel,ISR,CUK
+2,ATP,2025,6,men,154,2,530,25,sr:competitor:195458,"Added, Dan",France,FRA,ADD
+2,ATP,2025,6,men,155,-1,529,30,sr:competitor:110707,"Pichler, David",Austria,AUT,PIC
+2,ATP,2025,6,men,156,-7,528,36,sr:competitor:52260,"Vega, David",Spain,ESP,VEG
+2,ATP,2025,6,men,157,0,525,30,sr:competitor:58989,"Sabanov, Matej",Serbia,SRB,SAB
+2,ATP,2025,6,men,158,0,525,37,sr:competitor:98981,"Jecan, Alexandru",Romania,ROU,JEC
+2,ATP,2025,6,men,159,7,511,20,sr:competitor:216502,"Broom, Charles",Great Britain,GBR,BRO
+2,ATP,2025,6,men,160,1,511,30,sr:competitor:96859,"Lock, Benjamin",Zimbabwe,ZWE,LOC
+2,ATP,2025,6,men,161,1,510,23,sr:competitor:25021,"Cervantes, Inigo",Spain,ESP,CER
+2,ATP,2025,6,men,162,1,501,24,sr:competitor:280601,"Oberleitner, Neil",Austria,AUT,OBE
+2,ATP,2025,6,men,163,1,500,34,sr:competitor:145008,"Uesugi, Kaito",Japan,JPN,UES
+2,ATP,2025,6,men,164,1,495,12,sr:competitor:122366,"Tsitsipas, Stefanos",Greece,GRC,TSI
+2,ATP,2025,6,men,165,15,495,23,sr:competitor:141882,"Blancaneaux, Geoffrey",France,FRA,BLA
+2,ATP,2025,6,men,166,2,492,37,sr:competitor:112061,"Walkow, Szymon",Poland,POL,WAL
+2,ATP,2025,6,men,167,2,490,32,sr:competitor:297448,"Kiger, Mac",USA,USA,KIG
+2,ATP,2025,6,men,168,-9,483,33,sr:competitor:297502,"Bayldon, Blake",Australia,AUS,BAY
+2,ATP,2025,6,men,169,1,480,5,sr:competitor:136042,"Fritz, Taylor",USA,USA,FRI
+2,ATP,2025,6,men,170,-3,472,14,sr:competitor:227358,"Walton, Adam",Australia,AUS,WAL
+2,ATP,2025,6,men,171,11,468,35,sr:competitor:84671,"Britto, Luis",Brazil,BRA,BRI
+2,ATP,2025,6,men,172,2,462,30,sr:competitor:15275,"Matsui, Toshihide",Japan,JPN,MAT
+2,ATP,2025,6,men,173,-1,461,30,sr:competitor:390480,"Watanabe, Seita",Japan,JPN,WAT
+2,ATP,2025,6,men,174,21,457,18,sr:competitor:295508,"Vrbensky, Michael",Czechia,CZE,VRB
+2,ATP,2025,6,men,175,-2,457,25,sr:competitor:204495,"Vocel, Matej",Czechia,CZE,VOC
+2,ATP,2025,6,men,176,15,456,25,sr:competitor:380004,"Harper, Patrick",Australia,AUS,HAR
+2,ATP,2025,6,men,177,-17,453,14,sr:competitor:342826,"Trotter, James Kent",Japan,JPN,TRO
+2,ATP,2025,6,men,178,-3,453,18,sr:competitor:250231,"Shimizu, Yuta",Japan,JPN,SHI
+2,ATP,2025,6,men,179,-3,449,22,sr:competitor:59700,"Isaro, Pruchya",Thailand,THA,ISA
+2,ATP,2025,6,men,180,-3,443,12,sr:competitor:64920,"Myneni, Saketh",India,IND,MYN
+2,ATP,2025,6,men,181,0,435,31,sr:competitor:263865,"Reynolds, Finn",New Zealand,NZL,REY
+2,ATP,2025,6,men,182,-11,430,20,sr:competitor:77223,"Martinez, Pedro",Spain,ESP,MAR
+2,ATP,2025,6,men,183,1,429,26,sr:competitor:628218,"Karol, Milos",Slovakia,SVK,KAR
+2,ATP,2025,6,men,184,2,425,31,sr:competitor:55293,"Sabanov, Ivan",Serbia,SRB,SAB
+2,ATP,2025,6,men,185,2,422,26,sr:competitor:72420,"Merino, Alexander",Peru,PER,MER
+2,ATP,2025,6,men,186,-8,422,28,sr:competitor:55745,"Negritu, Christoph",Germany,DEU,NEG
+2,ATP,2025,6,men,187,-8,421,31,sr:competitor:84301,"Reese, Hunter",USA,USA,REE
+2,ATP,2025,6,men,188,0,420,6,sr:competitor:359602,"Musetti, Lorenzo",Italy,ITA,MUS
+2,ATP,2025,6,men,189,0,413,14,sr:competitor:49417,"Tu, Li",Australia,AUS,TUL
+2,ATP,2025,6,men,190,-5,409,32,sr:competitor:50148,"Puttergill, Calum",Australia,AUS,PUT
+2,ATP,2025,6,men,191,1,405,8,sr:competitor:671637,"Fils, Arthur",France,FRA,FIL
+2,ATP,2025,6,men,192,1,405,17,sr:competitor:534043,"Darderi, Luciano",Italy,ITA,DAR
+2,ATP,2025,6,men,193,1,397,25,sr:competitor:82579,"Uchida, Kaichi",Japan,JPN,UCH
+2,ATP,2025,6,men,194,2,387,33,sr:competitor:155860,"Lock, Courtney John",Zimbabwe,ZWE,LOC
+2,ATP,2025,6,men,195,2,386,22,sr:competitor:99043,"Wang, Aoran",China,CHN,WAN
+2,ATP,2025,6,men,196,2,385,11,sr:competitor:126356,"Munar, Jaume",Spain,ESP,MUN
+2,ATP,2025,6,men,197,2,384,15,sr:competitor:530317,"Rincon, Daniel",Spain,ESP,RIN
+2,ATP,2025,6,men,198,-15,383,22,sr:competitor:218344,"Lawson, Alex",USA,USA,LAW
+2,ATP,2025,6,men,199,2,380,7,sr:competitor:108767,"Hassan, Benjamin",Lebanon,LBN,HAS
+2,ATP,2025,6,men,200,2,373,27,sr:competitor:193930,"Sigouin, Benjamin",Canada,CAN,SIG
+2,ATP,2025,6,men,201,2,370,32,sr:competitor:106395,"Ricca, Giorgio",Italy,ITA,RIC
+2,ATP,2025,6,men,202,2,361,14,sr:competitor:100069,"Sachko, Vitaliy",Ukraine,UKR,SAC
+2,ATP,2025,6,men,203,2,360,7,sr:competitor:206879,"Eubanks, Christopher",USA,USA,EUB
+2,ATP,2025,6,men,204,2,360,8,sr:competitor:89632,"Jarry, Nicolas",Chile,CHL,JAR
+2,ATP,2025,6,men,205,2,360,10,sr:competitor:257721,"Baez, Sebastian",Argentina,ARG,BAE
+2,ATP,2025,6,men,206,2,360,17,sr:competitor:169496,"Etcheverry, Tomas Martin",Argentina,ARG,ETC
+2,ATP,2025,6,men,207,2,358,23,sr:competitor:145108,"Bertola, Remy",Switzerland,CHE,BER
+2,ATP,2025,6,men,208,11,357,25,sr:competitor:85877,"Villanueva, Gonzalo",Argentina,ARG,VIL
+2,ATP,2025,6,men,209,20,357,29,sr:competitor:289021,"Charlton, Joshua",Australia,AUS,CHA
+2,ATP,2025,6,men,210,1,355,35,sr:competitor:422955,"Sanchez, Luca",France,FRA,SAN
+2,ATP,2025,6,men,211,2,354,19,sr:competitor:396126,"Barnat, Jiri",Czechia,CZE,BAR
+2,ATP,2025,6,men,212,-12,352,21,sr:competitor:221556,"Alves, Mateus",Brazil,BRA,ALV
+2,ATP,2025,6,men,213,1,351,15,sr:competitor:284801,"Boyer, Tristan",USA,USA,BOY
+2,ATP,2025,6,men,214,1,348,37,sr:competitor:880089,"Pereira, Tiago",Portugal,PRT,PER
+2,ATP,2025,6,men,215,1,347,10,sr:competitor:124930,"Safiullin, Roman",Neutral,,SAF
+2,ATP,2025,6,men,216,-4,347,36,sr:competitor:96629,"Duncan, Scott",Great Britain,GBR,DUN
+2,ATP,2025,6,men,217,0,344,11,sr:competitor:539343,"Kym, Jerome",Switzerland,CHE,KYM
+2,ATP,2025,6,men,218,0,344,32,sr:competitor:161448,"Jones, Ben",Great Britain,GBR,JON
+2,ATP,2025,6,men,219,-9,340,22,sr:competitor:99377,"Kestelboim, Mariano",Argentina,ARG,KES
+2,ATP,2025,6,men,220,0,335,11,sr:competitor:392066,"Navone, Mariano",Argentina,ARG,NAV
+2,ATP,2025,6,men,221,-31,335,11,sr:competitor:43319,"Duran, Guillermo",Argentina,ARG,DUR
+2,ATP,2025,6,men,222,0,333,25,sr:competitor:163438,"Sun, Fajing",China,CHN,SUN
+2,ATP,2025,6,men,223,0,331,10,sr:competitor:284805,"Nava, Emilio",USA,USA,NAV
+2,ATP,2025,6,men,224,-3,327,15,sr:competitor:168420,"Andrade, Andres",Ecuador,ECU,AND
+2,ATP,2025,6,men,225,5,321,32,sr:competitor:163538,"Donski, Alexander",Bulgaria,BGR,DON
+2,ATP,2025,6,men,226,-2,317,9,sr:competitor:448357,"Spizzirri, Eliot",USA,USA,SPI
+2,ATP,2025,6,men,227,30,315,8,sr:competitor:399637,"Cobolli, Flavio",Italy,ITA,COB
+2,ATP,2025,6,men,228,6,315,34,sr:competitor:395828,"Saraiva Dos Santos, Paulo Andre",Brazil,BRA,SAR
+2,ATP,2025,6,men,229,-1,310,5,sr:competitor:132834,"Barrios Vera, Marcelo Tomas",Chile,CHL,BAR
+2,ATP,2025,6,men,230,1,307,14,sr:competitor:428657,"Shelbayh, Abdullah",Jordan,JOR,SHE
+2,ATP,2025,6,men,231,1,301,29,sr:competitor:96535,"Virgili, Augusto",Italy,ITA,VIR
+2,ATP,2025,6,men,232,34,296,26,sr:competitor:169492,"Aboian, Leonardo",Argentina,ARG,ABO
+2,ATP,2025,6,men,233,2,295,7,sr:competitor:496346,"Stricker, Dominic",Switzerland,CHE,STR
+2,ATP,2025,6,men,234,2,295,7,sr:competitor:47975,"Hanfmann, Yannick",Germany,DEU,HAN
+2,ATP,2025,6,men,235,2,295,27,sr:competitor:233144,"Duda, Filip",Czechia,CZE,DUD
+2,ATP,2025,6,men,236,2,293,16,sr:competitor:55787,"Olivo, Renzo",Argentina,ARG,OLI
+2,ATP,2025,6,men,237,2,291,17,sr:competitor:49663,"Escoffier, Antoine",France,FRA,ESC
+2,ATP,2025,6,men,238,12,290,29,sr:competitor:79223,"Delaney, Jake",Australia,AUS,DEL
+2,ATP,2025,6,men,239,-14,289,13,sr:competitor:121122,"Freund, Simon",Sweden,SWE,FRE
+2,ATP,2025,6,men,240,-14,289,21,sr:competitor:53483,"Masur, Daniel",Germany,DEU,MAS
+2,ATP,2025,6,men,241,-8,287,30,sr:competitor:348308,"Sheehy, Joshua",USA,USA,SHE
+2,ATP,2025,6,men,242,-1,286,15,sr:competitor:51974,"Daniell, Marcus",New Zealand,NZL,DAN
+2,ATP,2025,6,men,243,0,285,8,sr:competitor:106755,"Rublev, Andrey",Neutral,,RUB
+2,ATP,2025,6,men,244,0,284,25,sr:competitor:185434,"Rodriguez Taverna, Santiago",Argentina,ARG,ROD
+2,ATP,2025,6,men,245,0,282,30,sr:competitor:853643,"Romano, Filippo",Italy,ITA,ROM
+2,ATP,2025,6,men,246,0,278,18,sr:competitor:303808,"Nijboer, Ryan",Netherlands,NLD,NIJ
+2,ATP,2025,6,men,247,0,277,17,sr:competitor:38180,"Mena, Facundo",Argentina,ARG,MEN
+2,ATP,2025,6,men,248,33,277,36,sr:competitor:379924,"Whiting, Tennyson",USA,USA,WHI
+2,ATP,2025,6,men,249,0,276,27,sr:competitor:126402,"Denolly, Corentin",France,FRA,DEN
+2,ATP,2025,6,men,250,30,273,31,sr:competitor:308834,"Schachter, Noah",USA,USA,SCH
+2,ATP,2025,6,men,251,0,272,15,sr:competitor:99587,"Chung, Yun Seong",Republic of Korea,KOR,CHU
+2,ATP,2025,6,men,252,0,272,16,sr:competitor:17359,"Oswald, Philipp",Austria,AUT,OSW
+2,ATP,2025,6,men,253,1,271,20,sr:competitor:305558,"Roncadelli, Franco",Uruguay,URY,RON
+2,ATP,2025,6,men,254,1,271,26,sr:competitor:552469,"Agafonov, Egor",Neutral,,AGA
+2,ATP,2025,6,men,255,1,270,4,sr:competitor:352776,"Draper, Jack",Great Britain,GBR,DRA
+2,ATP,2025,6,men,256,2,270,8,sr:competitor:129368,"Koepfer, Dominik",Germany,DEU,KOE
+2,ATP,2025,6,men,257,2,270,13,sr:competitor:255595,"Cerundolo, Francisco",Argentina,ARG,CER
+2,ATP,2025,6,men,258,2,269,28,sr:competitor:310972,"Banthia, Siddhant",India,IND,BAN
+2,ATP,2025,6,men,259,2,265,20,sr:competitor:161868,"Huertas Del Pino, Connor",Peru,PER,HUE
+2,ATP,2025,6,men,260,18,265,21,sr:competitor:927343,"Cadenasso, Gianluca",Italy,ITA,CAD
+2,ATP,2025,6,men,261,-19,265,23,sr:competitor:77501,"Wehnelt, Kai",Germany,DEU,WEH
+2,ATP,2025,6,men,262,-22,265,28,sr:competitor:120956,"Alcantara, Francis Casey",Philippines,PHL,ALC
+2,ATP,2025,6,men,263,-15,264,27,sr:competitor:161220,"Pavel, Bogdan",Romania,ROU,PAV
+2,ATP,2025,6,men,264,-37,264,28,sr:competitor:48225,"Dutra Da Silva, Daniel",Brazil,BRA,DUT
+2,ATP,2025,6,men,265,14,264,32,sr:competitor:154740,"Delaney, Jesse",Australia,AUS,DEL
+2,ATP,2025,6,men,266,28,263,29,sr:competitor:126622,Ruehl. Tim,Germany,DEU,RUE
+2,ATP,2025,6,men,267,-5,263,40,sr:competitor:51304,"Stevenson, Kelsey",Canada,CAN,STE
+2,ATP,2025,6,men,268,-4,260,7,sr:competitor:212004,"Rodionov, Jurij",Austria,AUT,ROD
+2,ATP,2025,6,men,269,-4,260,11,sr:competitor:682913,"Rocha, Henrique",Portugal,PRT,ROC
+2,ATP,2025,6,men,270,-3,258,10,sr:competitor:145122,"Martineau, Matteo",France,FRA,MAR
+2,ATP,2025,6,men,271,-3,258,24,sr:competitor:498580,"Aboian, Valerio",Argentina,ARG,ABO
+2,ATP,2025,6,men,272,-3,258,32,sr:competitor:412829,"Matsuda, Ryuki",Japan,JPN,MAT
+2,ATP,2025,6,men,273,-3,256,9,sr:competitor:156664,"TE, Rigele",China,CHN,RIG
+2,ATP,2025,6,men,274,-3,256,13,sr:competitor:450283,"Mpetshi Perricard, Giovanni",France,FRA,MPE
+2,ATP,2025,6,men,275,-3,256,24,sr:competitor:686709,"Simakin, Ilia",Neutral,,SIM
+2,ATP,2025,6,men,276,-3,255,6,sr:competitor:145112,"Huesler, Marc-Andrea",Switzerland,CHE,HUE
+2,ATP,2025,6,men,277,9,255,33,sr:competitor:322589,"Pujol Navarro, Bruno",Spain,ESP,PUJ
+2,ATP,2025,6,men,278,-4,252,14,sr:competitor:82133,"Dellien, Murkel",Bolivia,BOL,DEV
+2,ATP,2025,6,men,279,41,252,22,sr:competitor:614090,"Pieczonka, Filip",Poland,POL,PIE
+2,ATP,2025,6,men,280,-5,252,29,sr:competitor:196672,"Davis, James",Great Britain,GBR,DAV
+2,ATP,2025,6,men,281,-28,251,15,sr:competitor:49548,"Manafov, Vladyslav",Ukraine,UKR,MAN
+2,ATP,2025,6,men,282,-6,251,23,sr:competitor:398360,"Urrea, Andres",Colombia,COL,URR
+2,ATP,2025,6,men,283,-6,250,4,sr:competitor:44553,"Herbert, Pierre-Hugues",France,FRA,HER
+2,ATP,2025,6,men,284,11,249,14,sr:competitor:93597,"Pellegrino, Andrea",Italy,ITA,PEL
+2,ATP,2025,6,men,285,7,249,30,sr:competitor:645442,"Genov, Anthony",Bulgaria,BGR,GEN
+2,ATP,2025,6,men,286,-2,248,20,sr:competitor:180104,"Reymond, Arthur",France,FRA,REY
+2,ATP,2025,6,men,287,-24,247,30,sr:competitor:154490,"Pearson, Kody",Australia,AUS,PEA
+2,ATP,2025,6,men,288,-6,246,15,sr:competitor:220588,"Hsu, Yu Hsiou",Chinese Taipei,TPE,HSU
+2,ATP,2025,6,men,289,2,244,24,sr:competitor:723013,"Pokorny, Lukas",Slovakia,SVK,POK
+2,ATP,2025,6,men,290,-5,242,13,sr:competitor:130436,"Habib, Hady",Lebanon,LBN,HAB
+2,ATP,2025,6,men,291,-4,241,8,sr:competitor:94485,"Bonzi, Benjamin",France,FRA,BON
+2,ATP,2025,6,men,292,38,241,17,sr:competitor:214824,"Aguilar, Juan Carlos",Canada,CAN,AGU
+2,ATP,2025,6,men,293,5,241,26,sr:competitor:731833,"Kielan, Szymon",Poland,POL,KIE
+2,ATP,2025,6,men,294,-6,240,3,sr:competitor:167370,"Ruusuvuori, Emil",Finland,FIN,RUU
+2,ATP,2025,6,men,295,-6,240,7,sr:competitor:104847,"Sonego, Lorenzo",Italy,ITA,SON
+2,ATP,2025,6,men,296,11,240,16,sr:competitor:774476,"Debru, Gabriel",France,FRA,DEB
+2,ATP,2025,6,men,297,-7,238,20,sr:competitor:759900,"Lanik, Tomas",Slovakia,SVK,LAN
+2,ATP,2025,6,men,298,-5,236,30,sr:competitor:217192,"Ouakaa, Aziz",Tunisia,TUN,OUA
+2,ATP,2025,6,men,299,71,233,10,sr:competitor:79227,"Sinclair, Colin",Northern Mariana Islands,MNP,SIN
+2,ATP,2025,6,men,300,-3,232,27,sr:competitor:154570,"Orlov, Vladyslav",Ukraine,UKR,ORL
+2,ATP,2025,6,men,301,18,232,28,sr:competitor:452787,"Kumar, Pranav",USA,USA,KUM
+2,ATP,2025,6,men,302,-1,225,7,sr:competitor:15931,"Brown, Dustin",Jamaica,JAM,BRO
+2,ATP,2025,6,men,303,-1,225,10,sr:competitor:51141,"Carballes Baena, Roberto",Spain,ESP,CAR
+2,ATP,2025,6,men,304,0,222,21,sr:competitor:645452,"Nesterov, Pyotr",Bulgaria,BGR,NES
+2,ATP,2025,6,men,305,0,222,24,sr:competitor:103625,"Geerts, Michael",Belgium,BEL,GEE
+2,ATP,2025,6,men,306,0,221,24,sr:competitor:170964,"Bittoun Kouzmine, Constantin",France,FRA,BIT
+2,ATP,2025,6,men,307,19,218,23,sr:competitor:60614,"Poljak, David",Czechia,CZE,POL
+2,ATP,2025,6,men,308,-9,218,25,sr:competitor:121248,"Roveri Sidney, Gabriel",Brazil,BRA,ROV
+2,ATP,2025,6,men,309,-1,217,9,sr:competitor:226124,"Holmgren, August",Denmark,DNK,HOL
+2,ATP,2025,6,men,310,0,216,10,sr:competitor:682911,"Faria, Jaime",Portugal,PRT,FAR
+2,ATP,2025,6,men,311,0,214,16,sr:competitor:251091,"Noguchi, Rio",Japan,JPN,NOG
+2,ATP,2025,6,men,312,-16,213,14,sr:competitor:240264,"Reis Da Silva, Joao Lucas",Brazil,BRA,REI
+2,ATP,2025,6,men,313,20,212,16,sr:competitor:505542,"Grevelius, Erik",Sweden,SWE,GRE
+2,ATP,2025,6,men,314,-2,212,32,sr:competitor:767058,"Lobanov, Aleksandr",Neutral,,LOB
+2,ATP,2025,6,men,315,-2,211,9,sr:competitor:113905,"Moreno de Alboran, Nicolas",USA,USA,MAN
+2,ATP,2025,6,men,316,21,209,20,sr:competitor:437794,"Heinonen, Adam",Sweden,SWE,HEI
+2,ATP,2025,6,men,317,0,208,5,sr:competitor:603098,"Fery, Arthur",Great Britain,GBR,FER
+2,ATP,2025,6,men,318,-4,207,10,sr:competitor:132558,"Kolar, Zdenek",Czechia,CZE,KOL
+2,ATP,2025,6,men,319,-4,207,19,sr:competitor:163540,"Hermans, Mats",Netherlands,NLD,HER
+2,ATP,2025,6,men,320,-2,205,22,sr:competitor:312436,"Hudd, Emile",Great Britain,GBR,HUD
+2,ATP,2025,6,men,321,-18,203,15,sr:competitor:50360,"Margaroli, Luca",Switzerland,CHE,MAR
+2,ATP,2025,6,men,322,-13,201,12,sr:competitor:52276,"Krueger, Mitchell",USA,USA,KRU
+2,ATP,2025,6,men,323,-40,200,4,sr:competitor:67154,"Barrere, Gregoire",France,FRA,BAR
+2,ATP,2025,6,men,324,-3,200,8,sr:competitor:124656,"Vukic, Aleksandar",Australia,AUS,VUK
+2,ATP,2025,6,men,325,26,199,27,sr:competitor:739643,"Loof, Thijmen",Netherlands,NLD,LOO
+2,ATP,2025,6,men,326,-4,196,13,sr:competitor:686911,"Poljicak, Mili",Croatia,HRV,POL
+2,ATP,2025,6,men,327,-4,196,30,sr:competitor:202735,"Carou, Ignacio",Uruguay,URY,CAR
+2,ATP,2025,6,men,328,-4,194,7,sr:competitor:80665,"Polmans, Marc",Australia,AUS,POL
+2,ATP,2025,6,men,329,17,194,11,sr:competitor:655845,"Quinn, Ethan",USA,USA,QUI
+2,ATP,2025,6,men,330,-5,194,26,sr:competitor:17046,"Statham, Rubin",New Zealand,NZL,STA
+2,ATP,2025,6,men,331,-4,193,32,sr:competitor:458575,"Agostini, Simone",Italy,ITA,AGO
+2,ATP,2025,6,men,332,-4,193,34,sr:competitor:124934,"Lomakin, Grigoriy",Kazakhstan,KAZ,LOM
+2,ATP,2025,6,men,333,-4,192,37,sr:competitor:223788,"Stepanov, Roy",Israel,ISR,STE
+2,ATP,2025,6,men,334,-18,191,15,sr:competitor:205767,"Cretu, Cezar (2001)",Romania,ROU,CRE
+2,ATP,2025,6,men,335,-4,190,8,sr:competitor:387066,"Forejtek, Jonas",Czechia,CZE,FOR
+2,ATP,2025,6,men,336,-4,188,26,sr:competitor:381022,"Wendelken, Harry",Great Britain,GBR,WEN
+2,ATP,2025,6,men,337,-2,185,24,sr:competitor:452691,"Araujo, Pedro",Portugal,PRT,ARA
+2,ATP,2025,6,men,338,-2,185,28,sr:competitor:681071,"Ganta, Sai Karteek Reddy",India,IND,GAN
+2,ATP,2025,6,men,339,-1,183,20,sr:competitor:111609,"Barroso Campos, Alberto",Spain,ESP,BAR
+2,ATP,2025,6,men,340,-1,183,22,sr:competitor:437734,"Shin, Woobin",Republic of Korea,KOR,SHI
+2,ATP,2025,6,men,341,55,183,29,sr:competitor:229024,"Zahraj, Patrick",Germany,DEU,ZAH
+2,ATP,2025,6,men,342,-2,182,21,sr:competitor:118166,"Bakshi, Aleksandre",Georgia,GEO,BAK
+2,ATP,2025,6,men,343,7,182,26,sr:competitor:407791,"Mackinlay, James",Great Britain,GBR,MAC
+2,ATP,2025,6,men,344,-44,180,2,sr:competitor:57703,"Pouille, Lucas",France,FRA,POU
+2,ATP,2025,6,men,345,-4,180,2,sr:competitor:429603,"Rune, Holger",Denmark,DNK,RUN
+2,ATP,2025,6,men,346,-4,180,3,sr:competitor:163504,"Medvedev, Daniil",Neutral,,MED
+2,ATP,2025,6,men,347,-4,180,4,sr:competitor:225050,"Sinner, Jannik",Italy,ITA,SIN
+2,ATP,2025,6,men,348,-4,180,24,sr:competitor:193912,"Dev, S D Prajwal",India,IND,DEV
+2,ATP,2025,6,men,349,-4,178,12,sr:competitor:286367,"Krutykh, Oleksii",Ukraine,UKR,KRU
+2,ATP,2025,6,men,350,7,178,23,sr:competitor:54903,"Karlovskiy, Evgeny",Neutral,,KAR
+2,ATP,2025,6,men,351,-4,176,21,sr:competitor:855911,"Hrazdil, Jan",Czechia,CZE,HRA
+2,ATP,2025,6,men,352,-4,175,3,sr:competitor:90798,"Halys, Quentin",France,FRA,HAL
+2,ATP,2025,6,men,353,19,174,26,sr:competitor:207777,"Imamura, Masamichi",Japan,JPN,IMA
+2,ATP,2025,6,men,354,-2,173,10,sr:competitor:679701,"Gueymard Wayenburg, Sascha",France,FRA,GUE
+2,ATP,2025,6,men,355,-2,173,26,sr:competitor:280559,"Catini, Niccolo",Italy,ITA,CAT
+2,ATP,2025,6,men,356,-2,171,6,sr:competitor:309954,"Droguet, Titouan",France,FRA,DRO
+2,ATP,2025,6,men,357,-2,171,19,sr:competitor:750283,"Isomura, Kokoro",Japan,JPN,ISO
+2,ATP,2025,6,men,358,-24,171,23,sr:competitor:244388,"Kalyanpur, Adil",India,IND,KAL
+2,ATP,2025,6,men,359,-3,171,34,sr:competitor:16852,"Uzhylovskyi, Volodoymyr",Ukraine,UKR,UZV
+2,ATP,2025,6,men,360,-2,169,8,sr:competitor:947875,"Zhou, Yi",China,CHN,ZHO
+2,ATP,2025,6,men,361,6,169,23,sr:competitor:215696,"Schell, Niklas",Germany,DEU,SCH
+2,ATP,2025,6,men,362,-3,168,21,sr:competitor:385204,"Verbin, Pavel",Neutral,,VER
+2,ATP,2025,6,men,363,-3,168,26,sr:competitor:130442,"Rai, Ajeet",New Zealand,NZL,RAI
+2,ATP,2025,6,men,364,-2,167,15,sr:competitor:43761,"Collarini, Andrea",Argentina,ARG,COL
+2,ATP,2025,6,men,365,20,167,22,sr:competitor:95939,"Whitehouse, Mark",Great Britain,GBR,WHI
+2,ATP,2025,6,men,366,-3,165,26,sr:competitor:220590,"Huang, Tsung-Hao",Chinese Taipei,TPE,HUA
+2,ATP,2025,6,men,367,65,164,12,sr:competitor:378220,"Huertas Del Pino Cordova, Arklon",Peru,PER,HUE
+2,ATP,2025,6,men,368,-4,164,24,sr:competitor:116616,"Clarke, Jay",Great Britain,GBR,CLA
+2,ATP,2025,6,men,369,-4,163,15,sr:competitor:564952,"Kusuhara, Yusuke",Japan,JPN,KUS
+2,ATP,2025,6,men,370,-4,162,23,sr:competitor:497320,"Visker, Niels",Netherlands,NLD,VIS
+2,ATP,2025,6,men,371,-3,160,18,sr:competitor:138712,"Oradini, Giovanni",Italy,ITA,ORA
+2,ATP,2025,6,men,372,11,159,20,sr:competitor:298118,"Summers, Matthew",Great Britain,GBR,SUM
+2,ATP,2025,6,men,373,-4,159,22,sr:competitor:973963,"Watt, James",New Zealand,NZL,WAT
+2,ATP,2025,6,men,374,-3,158,12,sr:competitor:263857,"De Krom, Michiel",Netherlands,NLD,DE
+2,ATP,2025,6,men,375,-2,156,16,sr:competitor:976405,"Taguchi, Ryotaro",Japan,JPN,TAG
+2,ATP,2025,6,men,376,-2,156,19,sr:competitor:51100,"Roca Batalla, Oriol",Spain,ESP,ROC
+2,ATP,2025,6,men,377,-2,156,20,sr:competitor:215492,"Cui, Jie",China,CHN,CUI
+2,ATP,2025,6,men,378,-2,155,19,sr:competitor:620338,"Sharipov, Marat",Neutral,,SHA
+2,ATP,2025,6,men,379,5,155,21,sr:competitor:785974,"La Serna, Juan Manuel",Argentina,ARG,LA
+2,ATP,2025,6,men,380,-2,153,13,sr:competitor:22962,"Jebavy, Roman",Czechia,CZE,JEB
+2,ATP,2025,6,men,381,-2,152,8,sr:competitor:240876,"Crawford, Oliver",Great Britain,GBR,CRA
+2,ATP,2025,6,men,382,-2,152,25,sr:competitor:182086,"Bass, Finn",Great Britain,GBR,BAS
+2,ATP,2025,6,men,383,-2,151,7,sr:competitor:57021,"Kovalik, Jozef",Slovakia,SVK,KOV
+2,ATP,2025,6,men,384,-2,151,15,sr:competitor:644676,"Milev, Yanaki",Bulgaria,BGR,MIL
+2,ATP,2025,6,men,385,1,151,32,sr:competitor:208123,"Maginley, Jody",Antigua and Barbuda,ATG,MAG
+2,ATP,2025,6,men,386,1,150,1,sr:competitor:763108,"Mensik, Jakub",Czechia,CZE,MEN
+2,ATP,2025,6,men,387,1,150,3,sr:competitor:339377,"Lehecka, Jiri",Czechia,CZE,LEH
+2,ATP,2025,6,men,388,1,150,5,sr:competitor:294300,"Nakashima, Brandon",USA,USA,NAK
+2,ATP,2025,6,men,389,1,150,6,sr:competitor:185388,"Humbert, Ugo",France,FRA,HUM
+2,ATP,2025,6,men,390,1,150,17,sr:competitor:194668,"Wenger, Damien",Switzerland,CHE,WEN
+2,ATP,2025,6,men,391,1,150,22,sr:competitor:287543,"Hulme, Matt",Australia,AUS,HUL
+2,ATP,2025,6,men,392,1,149,6,sr:competitor:565070,"Monday, Johannus",Great Britain,GBR,MON
+2,ATP,2025,6,men,393,1,149,13,sr:competitor:205773,"Sanchez Jover, Carlos",Spain,ESP,SAN
+2,ATP,2025,6,men,394,34,148,12,sr:competitor:210502,"Kopp, Sandro",Austria,AUT,KOP
+2,ATP,2025,6,men,395,0,148,25,sr:competitor:272245,"Latinovic, Stefan",Serbia,SRB,LAT
+2,ATP,2025,6,men,396,1,145,5,sr:competitor:49172,"Dzumhur, Damir",Bosnia & Herzegovina,BIH,DZU
+2,ATP,2025,6,men,397,1,145,9,sr:competitor:515510,"Heide, Gustavo",Brazil,BRA,HEI
+2,ATP,2025,6,men,398,1,145,11,sr:competitor:65606,"Agamenone, Franco",Italy,ITA,AGA
+2,ATP,2025,6,men,399,1,145,19,sr:competitor:138528,"Mejia, Nicolas",Colombia,COL,MEJ
+2,ATP,2025,6,men,400,2,144,15,sr:competitor:359608,"Maestrelli, Francesco",Italy,ITA,MAE
+2,ATP,2025,6,men,401,2,144,15,sr:competitor:16781,"Sharan, Divij",India,IND,SHA
+2,ATP,2025,6,men,402,2,143,10,sr:competitor:321667,"Mayot, Harold",France,FRA,MAY
+2,ATP,2025,6,men,403,2,143,16,sr:competitor:50901,"Popko, Dmitry",Kazakhstan,KAZ,POP
+2,ATP,2025,6,men,404,2,141,19,sr:competitor:439474,"Jermar, Jan",Czechia,CZE,JER
+2,ATP,2025,6,men,405,2,141,20,sr:competitor:873679,"Bondioli, Federico",Italy,ITA,BON
+2,ATP,2025,6,men,406,2,141,27,sr:competitor:156826,"van Wyk, Kris",South Africa,ZAF,VAN
+2,ATP,2025,6,men,407,2,140,4,sr:competitor:405969,"Paulson, Andrew",Czechia,CZE,PAU
+2,ATP,2025,6,men,408,2,139,19,sr:competitor:833418,"Del Pino, Mateo",Argentina,ARG,DEL
+2,ATP,2025,6,men,409,2,138,6,sr:competitor:121668,"Meligeni Alves, Felipe",Brazil,BRA,MEL
+2,ATP,2025,6,men,410,-9,137,23,sr:competitor:435758,"Vanshelboim, Eric",Ukraine,UKR,VAN
+2,ATP,2025,6,men,411,1,136,14,sr:competitor:215778,"Izquierdo Luque, Rafael",Spain,ESP,IZQ
+2,ATP,2025,6,men,412,1,136,21,sr:competitor:202681,"Marrero Curbelo, Ivan",Spain,ESP,MAR
+2,ATP,2025,6,men,413,1,136,25,sr:competitor:119126,"Taylor, Adam (1991)",Australia,AUS,TAY
+2,ATP,2025,6,men,414,1,135,1,sr:competitor:163636,"Klein, Lukas",Slovakia,SVK,KLE
+2,ATP,2025,6,men,415,1,135,7,sr:competitor:119248,"Ruud, Casper",Norway,NOR,RUU
+2,ATP,2025,6,men,416,1,135,8,sr:competitor:161262,"Seyboth Wild, Thiago",Brazil,BRA,SEY
+2,ATP,2025,6,men,417,1,135,10,sr:competitor:54573,"Coria, Federico",Argentina,ARG,COR
+2,ATP,2025,6,men,418,2,135,12,sr:competitor:345060,"Kingsley, Cannon",USA,USA,KIN
+2,ATP,2025,6,men,419,2,135,18,sr:competitor:447733,"Hands, Tom",Great Britain,GBR,HAN
+2,ATP,2025,6,men,420,2,135,20,sr:competitor:951223,"Sanchez Quilez, Alejo",Spain,ESP,SAN
+2,ATP,2025,6,men,421,2,135,21,sr:competitor:256375,"Jeong, Yeongseok",Republic of Korea,KOR,JEO
+2,ATP,2025,6,men,422,2,134,12,sr:competitor:242556,"McHugh, Aidan",Great Britain,GBR,MCH
+2,ATP,2025,6,men,423,2,134,20,sr:competitor:524256,"Beckley, Alec",South Africa,ZAF,BEC
+2,ATP,2025,6,men,424,3,133,29,sr:competitor:418163,"Perfetti, Noah",Italy,ITA,PER
+2,ATP,2025,6,men,425,40,132,17,sr:competitor:269535,"Potenza, Luca",Italy,ITA,POT
+2,ATP,2025,6,men,426,8,131,19,sr:competitor:96239,"Durasovic, Viktor",Norway,NOR,DUR
+2,ATP,2025,6,men,427,-50,129,18,sr:competitor:48281,"Rungkat, Christopher",Indonesia,IDN,RUN
+2,ATP,2025,6,men,428,3,128,9,sr:competitor:177686,"Barranco Cosano, Javier",Spain,ESP,BAR
+2,ATP,2025,6,men,429,4,128,18,sr:competitor:282183,"Rottoli, Lorenzo",Italy,ITA,ROT
+2,ATP,2025,6,men,430,10,128,18,sr:competitor:180446,"Wessels, Louis",Germany,DEU,WES
+2,ATP,2025,6,men,431,40,128,26,sr:competitor:100317,"Turker, Mert Naci",Turkiye,TUR,TUR
+2,ATP,2025,6,men,432,40,128,29,sr:competitor:404753,"Saritas, Gokberk",Turkiye,TUR,SAR
+2,ATP,2025,6,men,433,3,127,7,sr:competitor:104967,"Brouwer, Gijs",Netherlands,NLD,BRO
+2,ATP,2025,6,men,434,3,127,12,sr:competitor:58783,"Song, Min-Kyu",Republic of Korea,KOR,SON
+2,ATP,2025,6,men,435,3,126,6,sr:competitor:213170,"Blanchet, Ugo",France,FRA,BLA
+2,ATP,2025,6,men,436,5,126,22,sr:competitor:301896,"Ovcharenko, Oleksandr",Ukraine,UKR,OVC
+2,ATP,2025,6,men,437,5,126,24,sr:competitor:65992,"Paz, Juan Pablo",Argentina,ARG,PAZ
+2,ATP,2025,6,men,438,5,125,11,sr:competitor:60592,"Lee, Jeamoon",Republic of Korea,KOR,LEE
+2,ATP,2025,6,men,439,45,125,11,sr:competitor:283451,"Rodriguez, Lorenzo Joaquin",Argentina,ARG,ROD
+2,ATP,2025,6,men,440,5,124,15,sr:competitor:252233,"Tang, Sheng",China,CHN,TAN
+2,ATP,2025,6,men,441,5,124,15,sr:competitor:15743,"Istomin, Denis",Uzbekistan,UZB,IST
+2,ATP,2025,6,men,442,5,124,20,sr:competitor:978579,"Ghazouani Durand, Yanis",France,FRA,GHA
+2,ATP,2025,6,men,443,5,124,21,sr:competitor:137890,"Vale, Duarte",Portugal,PRT,VAL
+2,ATP,2025,6,men,444,5,123,7,sr:competitor:283965,"Suresh, Dhakshineswar",India,IND,SUR
+2,ATP,2025,6,men,445,-16,123,15,sr:competitor:93589,"Kellovsky, Dominik",Czechia,CZE,KEL
+2,ATP,2025,6,men,446,4,123,22,sr:competitor:57759,"Oliveira, Gonzalo",Venezuela,VEN,OLI
+2,ATP,2025,6,men,447,4,122,4,sr:competitor:71280,"Kokkinakis, Thanasi",Australia,AUS,KOK
+2,ATP,2025,6,men,448,4,122,6,sr:competitor:310974,"De Jong, Jesper",Netherlands,NLD,DEJ
+2,ATP,2025,6,men,449,-88,122,10,sr:competitor:88992,"Muller, Alexandre",France,FRA,MUL
+2,ATP,2025,6,men,450,5,121,19,sr:competitor:217038,"Seeman, Johannes",Estonia,EST,SEE
+2,ATP,2025,6,men,451,5,120,10,sr:competitor:938667,"Schwaerzler, Joel",Austria,AUT,SCH
+2,ATP,2025,6,men,452,5,120,12,sr:competitor:682903,"Nakagawa, Shunsuke",Japan,JPN,NAK
+2,ATP,2025,6,men,453,5,120,13,sr:competitor:114885,"Nikles, Johan",Switzerland,CHE,NIK
+2,ATP,2025,6,men,454,5,119,24,sr:competitor:181384,"Sinha, Nitin Kumar",India,IND,SIN
+2,ATP,2025,6,men,455,5,118,12,sr:competitor:570833,"Rodriguez Rodriguez, Johan Alexander",Colombia,COL,ROD
+2,ATP,2025,6,men,456,-2,118,15,sr:competitor:684577,"Muller, Rik",Netherlands,NLD,MUL
+2,ATP,2025,6,men,457,-31,118,20,sr:competitor:64790,"Kalovelonis, Markos",Greece,GRC,KAL
+2,ATP,2025,6,men,458,3,118,50,sr:competitor:759758,"Sakellaridis, Dimitris",Greece,GRC,SAK
+2,ATP,2025,6,men,459,3,117,10,sr:competitor:56361,"Sels, Jelle",Netherlands,NLD,SEL
+2,ATP,2025,6,men,460,3,117,14,sr:competitor:130438,"Ponwith, Nathan",USA,USA,PON
+2,ATP,2025,6,men,461,3,117,15,sr:competitor:57327,"Domingues, Joao",Portugal,PRT,DOM
+2,ATP,2025,6,men,462,4,116,6,sr:competitor:307112,"Erel, Yanki",Turkiye,TUR,ERE
+2,ATP,2025,6,men,463,96,116,15,sr:competitor:312728,"Stewart, Hamish",Great Britain,GBR,STE
+2,ATP,2025,6,men,464,3,115,2,sr:competitor:997473,"Bernet, Henry",Switzerland,CHE,BER
+2,ATP,2025,6,men,465,3,115,14,sr:competitor:107625,"Janvier, Maxime",France,FRA,JAN
+2,ATP,2025,6,men,466,15,115,19,sr:competitor:990785,"Zheng, Zhan",China,CHN,ZHE
+2,ATP,2025,6,men,467,2,115,20,sr:competitor:501410,"Hignett, Liam",Great Britain,GBR,HIG
+2,ATP,2025,6,men,468,2,115,21,sr:competitor:152898,"Gengel, Marek",Czechia,CZE,GEN
+2,ATP,2025,6,men,469,28,114,13,sr:competitor:809324,"Pacheco Mendez, Rodrigo",Mexico,MEX,PAC
+2,ATP,2025,6,men,470,20,114,19,sr:competitor:418167,"Garcian, Axel",France,FRA,GAR
+2,ATP,2025,6,men,471,2,113,14,sr:competitor:54975,"Casanova, Hernan",Argentina,ARG,CAS
+2,ATP,2025,6,men,472,56,113,15,sr:competitor:137892,"Otegui, Juan Bautista",Argentina,ARG,OTE
+2,ATP,2025,6,men,473,12,113,17,sr:competitor:294248,"Hellum Lilleengen, Lukas",Norway,NOR,HEL
+2,ATP,2025,6,men,474,0,113,19,sr:competitor:675167,"Javia, Dev",India,IND,JAV
+2,ATP,2025,6,men,475,0,113,27,sr:competitor:322729,"Bueno Gil, Alvaro",Spain,ESP,BUE
+2,ATP,2025,6,men,476,11,112,13,sr:competitor:382056,"Bouquier, Arthur",France,FRA,BOU
+2,ATP,2025,6,men,477,-1,112,15,sr:competitor:220932,"Shin, Sanhui",Republic of Korea,KOR,SHI
+2,ATP,2025,6,men,478,-1,112,17,sr:competitor:403357,"Thayne, Wally",USA,USA,THA
+2,ATP,2025,6,men,479,-1,112,21,sr:competitor:867575,"Massard, Loann",France,FRA,MAS
+2,ATP,2025,6,men,480,-45,112,22,sr:competitor:76251,"Bobrov, Bogdan",Neutral,,BOB
+2,ATP,2025,6,men,481,-2,111,9,sr:competitor:457059,"Montes-de la Torre, Inaki",Spain,ESP,MON
+2,ATP,2025,6,men,482,-2,111,14,sr:competitor:199196,"Sanchez Izquierdo, Nikolas",Spain,ESP,SAI
+2,ATP,2025,6,men,483,-1,111,22,sr:competitor:327067,"Beloborodko, Illya",Ukraine,UKR,BI
+2,ATP,2025,6,men,484,-1,110,5,sr:competitor:39711,"Duckworth, James",Australia,AUS,DUC
+2,ATP,2025,6,men,485,104,110,11,sr:competitor:341218,"Colson, Tibo",Belgium,BEL,COL
+2,ATP,2025,6,men,486,62,110,14,sr:competitor:101157,"Rybakov, Alex",USA,USA,RYB
+2,ATP,2025,6,men,487,-1,110,25,sr:competitor:390486,"Farjat, Tomas",Argentina,ARG,FAR
+2,ATP,2025,6,men,488,25,109,10,sr:competitor:47767,"Lamasine, Tristan",France,FRA,LAM
+2,ATP,2025,6,men,489,26,109,18,sr:competitor:833442,"Schiessl, Joao Eduardo",Brazil,BRA,SCH
+2,ATP,2025,6,men,490,-46,108,10,sr:competitor:373348,"Pucinelli de Almeida, Matheus",Brazil,BRA,PDA
+2,ATP,2025,6,men,491,-2,108,15,sr:competitor:269523,"Bax, Florent",France,FRA,BAX
+2,ATP,2025,6,men,492,-1,107,8,sr:competitor:113859,"Bellier, Antoine",Switzerland,CHE,BEL
+2,ATP,2025,6,men,493,-1,107,14,sr:competitor:268725,"Ramskogler, Gregor",Austria,AUT,RAM
+2,ATP,2025,6,men,494,-1,107,15,sr:competitor:609146,"Okonkwo, Oliver",Great Britain,GBR,OKO
+2,ATP,2025,6,men,495,66,107,28,sr:competitor:246745,"Tajima, Naoki",Japan,JPN,TAJ
+2,ATP,2025,6,men,496,-1,106,9,sr:competitor:373852,"Zink, Tyler",USA,USA,ZIN
+2,ATP,2025,6,men,497,-1,106,11,sr:competitor:801374,"Gea, Arthur",France,FRA,GEA
+2,ATP,2025,6,men,498,-10,106,16,sr:competitor:161874,"Corwin, Felix",USA,USA,COR
+2,ATP,2025,6,men,499,-1,106,18,sr:competitor:434058,"Boscardin Dias, Pedro",Brazil,BRA,BOS
+2,ATP,2025,6,men,500,-1,106,18,sr:competitor:908699,"Bilardo, Jacopo",Italy,ITA,BIL
+2,WTA,2025,6,women,1,0,10750,18,sr:competitor:72376,"Siniakova, Katerina",Czechia,CZE,SIN
+2,WTA,2025,6,women,2,0,8165,21,sr:competitor:74949,"Routliffe, Erin",New Zealand,NZL,ROU
+2,WTA,2025,6,women,3,0,7378,15,sr:competitor:51387,"Townsend, Taylor",USA,USA,TOW
+2,WTA,2025,6,women,4,0,6805,16,sr:competitor:43860,"Dabrowski, Gabriela",Canada,CAN,DAB
+2,WTA,2025,6,women,5,0,5360,15,sr:competitor:64496,"Ostapenko, Jelena",Latvia,LVA,OST
+2,WTA,2025,6,women,6,4,4930,21,sr:competitor:41520,"Kichenok, Lyudmyla",Ukraine,UKR,KIC
+2,WTA,2025,6,women,7,2,4868,24,sr:competitor:64021,"Krawczyk, Desirae",USA,USA,KRA
+2,WTA,2025,6,women,8,0,4806,18,sr:competitor:18936,"Hsieh, Su-Wei",Chinese Taipei,TPE,HSI
+2,WTA,2025,6,women,9,-3,4706,17,sr:competitor:19202,"Errani, Sara",Italy,ITA,ERR
+2,WTA,2025,6,women,10,-3,4635,15,sr:competitor:69208,"Paolini, Jasmine",Italy,ITA,PAO
+2,WTA,2025,6,women,11,0,4585,26,sr:competitor:46084,"Melichar-Martinez, Nicole",USA,USA,MEL
+2,WTA,2025,6,women,12,1,4480,22,sr:competitor:19932,"Muhammad, Asia",USA,USA,MUH
+2,WTA,2025,6,women,13,-1,4430,26,sr:competitor:119670,"Perez, Ellen",Australia,AUS,PER
+2,WTA,2025,6,women,14,0,4363,19,sr:competitor:123824,"Dolehide, Caroline",USA,USA,DOL
+2,WTA,2025,6,women,15,0,4230,26,sr:competitor:48625,"Chan, Hao-Ching",Chinese Taipei,TPE,CHA
+2,WTA,2025,6,women,16,0,4120,19,sr:competitor:66968,"Kudermetova, Veronika",Neutral,,KUD
+2,WTA,2025,6,women,17,0,3945,30,sr:competitor:47810,"Khromacheva, Irina",Neutral,,KHR
+2,WTA,2025,6,women,18,0,3683,23,sr:competitor:18354,"Mattek-Sands, Bethanie",USA,USA,MAT
+2,WTA,2025,6,women,19,1,3666,33,sr:competitor:69718,"Danilina, Anna",Kazakhstan,KAZ,DAN
+2,WTA,2025,6,women,20,-1,3620,15,sr:competitor:37508,"Siegemund, Laura",Germany,DEU,SIE
+2,WTA,2025,6,women,21,0,3565,18,sr:competitor:91960,"Kenin, Sofia",USA,USA,KEN
+2,WTA,2025,6,women,22,0,3560,16,sr:competitor:78551,"Mertens, Elise",Belgium,BEL,MER
+2,WTA,2025,6,women,23,1,3551,30,sr:competitor:19607,"Zhang, Shuai",China,CHN,ZHA
+2,WTA,2025,6,women,24,-1,3521,7,sr:competitor:373352,"Gauff, Coco",USA,USA,GAU
+2,WTA,2025,6,women,25,0,3291,25,sr:competitor:99131,"Bucsa, Cristina",Spain,ESP,BUC
+2,WTA,2025,6,women,26,0,3238,21,sr:competitor:50537,"Schuurs, Demi",Netherlands,NLD,SCH
+2,WTA,2025,6,women,27,3,3215,18,sr:competitor:96075,"Stefani, Luisa",Brazil,BRA,STE
+2,WTA,2025,6,women,28,-1,2920,13,sr:competitor:33593,"Mladenovic, Kristina",France,FRA,MLA
+2,WTA,2025,6,women,29,-1,2784,28,sr:competitor:24431,"Panova, Alexandra",Neutral,,PAN
+2,WTA,2025,6,women,30,-1,2771,13,sr:competitor:588071,"Shnaider, Diana",Neutral,,SHN
+2,WTA,2025,6,women,31,0,2725,15,sr:competitor:289507,"Fernandez, Leylah Annie",Canada,CAN,FER
+2,WTA,2025,6,women,32,1,2599,11,sr:competitor:871583,"Andreeva, Mirra",Neutral,,AND
+2,WTA,2025,6,women,33,-1,2586,25,sr:competitor:153652,"Guo, Hanyu",China,CHN,GUO
+2,WTA,2025,6,women,34,1,2460,23,sr:competitor:19655,"Niculescu, Monica",Romania,ROU,NIC
+2,WTA,2025,6,women,35,-1,2393,29,sr:competitor:66432,"Kato, Miyu",Japan,JPN,KAT
+2,WTA,2025,6,women,36,0,2356,11,sr:competitor:60392,"Sorribes Tormo, Sara",Spain,ESP,SOR
+2,WTA,2025,6,women,37,17,2331,23,sr:competitor:43102,"Babos, Timea",Hungary,HUN,BAB
+2,WTA,2025,6,women,38,2,2324,30,sr:competitor:166124,"Olmos, Giuliana",Mexico,MEX,OLM
+2,WTA,2025,6,women,39,0,2324,26,sr:competitor:49682,"Kichenok, Nadiia",Ukraine,UKR,KIC
+2,WTA,2025,6,women,40,-2,2318,28,sr:competitor:47801,"Eikeri, Ulrikke",Norway,NOR,EIK
+2,WTA,2025,6,women,41,-4,2210,25,sr:competitor:51481,"Sutjiadi, Aldila",Indonesia,IDN,SUT
+2,WTA,2025,6,women,42,-1,2182,27,sr:competitor:129714,"Nicholls, Olivia",Great Britain,GBR,NIC
+2,WTA,2025,6,women,43,-1,2102,9,sr:competitor:60398,"Krejcikova, Barbora",Czechia,CZE,KRE
+2,WTA,2025,6,women,44,-1,2080,29,sr:competitor:142996,"Mihalikova, Tereza",Slovakia,SVK,MIH
+2,WTA,2025,6,women,45,6,2060,18,sr:competitor:272217,"Wang, Xinyu",China,CHN,WAN
+2,WTA,2025,6,women,46,-2,2053,30,sr:competitor:19974,"Xu, Yifan",China,CHN,YIF
+2,WTA,2025,6,women,47,-2,2052,32,sr:competitor:70784,"Hozumi, Eri",Japan,JPN,HOZ
+2,WTA,2025,6,women,48,-1,2002,35,sr:competitor:182178,"Wu, Fang-Hsien",Chinese Taipei,TPE,FAN
+2,WTA,2025,6,women,49,-1,1984,30,sr:competitor:43547,"Aoyama, Shuko",Japan,JPN,AOY
+2,WTA,2025,6,women,50,-1,1965,10,sr:competitor:44834,"Pegula, Jessica",USA,USA,PEG
+2,WTA,2025,6,women,51,-1,1934,11,sr:competitor:103901,"Ruse, Elena-Gabriela",Romania,ROU,RUS
+2,WTA,2025,6,women,52,-6,1919,26,sr:competitor:150122,"Jiang, Xinyu",China,CHN,JIA
+2,WTA,2025,6,women,53,-1,1870,13,sr:competitor:138452,"Shibahara, Ena",Japan,JPN,SHI
+2,WTA,2025,6,women,54,-1,1855,4,sr:competitor:45835,"Hunter, Storm",Australia,AUS,HUN
+2,WTA,2025,6,women,55,0,1782,18,sr:competitor:105463,"Bouzkova, Marie",Czechia,CZE,BOU
+2,WTA,2025,6,women,56,0,1726,33,sr:competitor:60668,"Ninomiya, Makoto",Japan,JPN,NIN
+2,WTA,2025,6,women,57,3,1714,13,sr:competitor:47697,"Zheng, Saisai",China,CHN,ZHE
+2,WTA,2025,6,women,58,-1,1701,6,sr:competitor:278887,"Kostyuk, Marta",Ukraine,UKR,KOS
+2,WTA,2025,6,women,59,-1,1614,12,sr:competitor:128584,"Samsonova, Liudmila",Neutral,,SAM
+2,WTA,2025,6,women,60,-1,1612,30,sr:competitor:61606,"Sizikova, Yana",Neutral,,SIZ
+2,WTA,2025,6,women,61,0,1590,17,sr:competitor:53789,"Dart, Harriet",Great Britain,GBR,DAR
+2,WTA,2025,6,women,62,0,1552,20,sr:competitor:157672,"Stollar, Fanny",Hungary,HUN,STO
+2,WTA,2025,6,women,63,1,1471,11,sr:competitor:59702,"Haddad Maia, Beatriz",Brazil,BRA,HAD
+2,WTA,2025,6,women,64,1,1456,28,sr:competitor:19731,"Piter, Katarzyna",Poland,POL,PIT
+2,WTA,2025,6,women,65,2,1416,14,sr:competitor:135854,"Neel, Ingrid",Estonia,EST,NEE
+2,WTA,2025,6,women,66,-3,1391,12,sr:competitor:252223,"Rakhimova, Kamilla",Neutral,,RAK
+2,WTA,2025,6,women,67,-1,1351,16,sr:competitor:23158,"Stephens, Sloane",USA,USA,STE
+2,WTA,2025,6,women,68,1,1346,32,sr:competitor:37504,"Kalashnikova, Oksana",Georgia,GEO,KAL
+2,WTA,2025,6,women,69,-1,1307,14,sr:competitor:549759,"Krueger, Ashlyn",USA,USA,KRU
+2,WTA,2025,6,women,70,1,1280,18,sr:competitor:41524,"Krunic, Aleksandra",Serbia,SRB,KA
+2,WTA,2025,6,women,71,2,1230,13,sr:competitor:401055,"Noskova, Linda",Czechia,CZE,NOS
+2,WTA,2025,6,women,72,2,1225,16,sr:competitor:42289,"Linette, Magda",Poland,POL,LIN
+2,WTA,2025,6,women,73,3,1221,33,sr:competitor:69602,"Lumsden, Maia",Great Britain,GBR,LUM
+2,WTA,2025,6,women,74,1,1189,31,sr:competitor:52695,"Moratelli, Angelica",Italy,ITA,MOR
+2,WTA,2025,6,women,75,-5,1181,15,sr:competitor:67759,"Alexandrova, Ekaterina",Neutral,,ALE
+2,WTA,2025,6,women,76,-4,1147,13,sr:competitor:41877,"Yuan, Yue",China,CHN,YUA
+2,WTA,2025,6,women,77,0,1140,31,sr:competitor:215476,"Siskova, Anna",Czechia,CZE,SIS
+2,WTA,2025,6,women,78,2,1118,30,sr:competitor:194106,"Tang, Qianhui",China,CHN,TAN
+2,WTA,2025,6,women,79,6,1068,15,sr:competitor:234150,"Potapova, Anastasia",Neutral,,POT
+2,WTA,2025,6,women,80,2,1061,15,sr:competitor:41404,"Watson, Heather",Great Britain,GBR,WAT
+2,WTA,2025,6,women,81,-3,1057,31,sr:competitor:44977,"Santamaria, Sabrina",USA,USA,SAN
+2,WTA,2025,6,women,82,-1,1027,31,sr:competitor:71754,"Martins, Ingrid",Brazil,BRA,MAR
+2,WTA,2025,6,women,83,-4,1004,16,sr:competitor:256547,"Parks, Alycia",USA,USA,PAR
+2,WTA,2025,6,women,84,-1,992,10,sr:competitor:18298,"Zvonareva, Vera",Neutral,,ZVO
+2,WTA,2025,6,women,85,-1,975,29,sr:competitor:73542,"Gleason, Quinn",USA,USA,GLE
+2,WTA,2025,6,women,86,0,954,27,sr:competitor:48451,"Cavalle-Reimers, Yvonne",Spain,ESP,CAV
+2,WTA,2025,6,women,87,7,947,31,sr:competitor:168526,"Appleton, Emily",Great Britain,GBR,APP
+2,WTA,2025,6,women,88,-1,939,33,sr:competitor:54175,"Zimmermann, Kimberley",Belgium,BEL,ZIM
+2,WTA,2025,6,women,89,-1,934,19,sr:competitor:111189,"Zarazua, Renata",Mexico,MEX,ZAR
+2,WTA,2025,6,women,90,-1,924,12,sr:competitor:52025,"Wang, Yafan",China,CHN,WAN
+2,WTA,2025,6,women,91,-1,904,29,sr:competitor:182054,"Skoch, Miriam",Czechia,CZE,SKO
+2,WTA,2025,6,women,92,-1,899,32,sr:competitor:51651,"Rosatello, Camilla",Italy,ITA,ROS
+2,WTA,2025,6,women,93,-1,896,9,sr:competitor:90664,"Kalinina, Anhelina",Ukraine,UKR,KAL
+2,WTA,2025,6,women,94,-1,890,17,sr:competitor:150574,"Bondar, Anna",Hungary,HUN,BON
+2,WTA,2025,6,women,95,1,836,26,sr:competitor:173748,"Detiuc, Anastasia",Czechia,CZE,DET
+2,WTA,2025,6,women,96,1,832,10,sr:competitor:286435,"Gadecki, Olivia",Australia,AUS,GAD
+2,WTA,2025,6,women,97,1,829,13,sr:competitor:192130,"Blinkova, Anna",Neutral,,BLI
+2,WTA,2025,6,women,98,1,812,35,sr:competitor:121760,"Anshba, Amina",Neutral,,ANS
+2,WTA,2025,6,women,99,1,792,8,sr:competitor:318195,"Parry, Diane",France,FRA,PAR
+2,WTA,2025,6,women,100,-5,788,15,sr:competitor:42492,"Kawa, Katarzyna",Poland,POL,KAW
+2,WTA,2025,6,women,101,0,776,8,sr:competitor:88310,"Sherif Ahmed Abdelaziz, Maiar",Egypt,EGY,SHE
+2,WTA,2025,6,women,102,0,772,22,sr:competitor:227486,"Zantedeschi, Aurora",Italy,ITA,ZAN
+2,WTA,2025,6,women,103,7,765,19,sr:competitor:335171,"Uchijima, Moyuka",Japan,JPN,UCH
+2,WTA,2025,6,women,104,-1,759,14,sr:competitor:262759,"Wang, Xiyu",China,CHN,WAN
+2,WTA,2025,6,women,105,0,759,19,sr:competitor:210558,"Jorge, Francisca",Portugal,PRT,JOR
+2,WTA,2025,6,women,106,18,756,14,sr:competitor:72450,"Hibino, Nao",Japan,JPN,HIB
+2,WTA,2025,6,women,107,-3,755,8,sr:competitor:45545,"Putintseva, Yulia",Kazakhstan,KAZ,PUT
+2,WTA,2025,6,women,108,-2,742,26,sr:competitor:378340,"Corley, Carmen",USA,USA,COR
+2,WTA,2025,6,women,109,-1,736,31,sr:competitor:51943,"Strakhova, Valeriya",Ukraine,UKR,STR
+2,WTA,2025,6,women,110,2,727,22,sr:competitor:215598,"Vedder, Eva",Netherlands,NLD,VED
+2,WTA,2025,6,women,111,6,726,17,sr:competitor:92879,"Shymanovich, Iryna",Neutral,,SHY
+2,WTA,2025,6,women,112,-3,725,29,sr:competitor:49907,"Murray Sharan, Samantha",Great Britain,GBR,MUS
+2,WTA,2025,6,women,113,-2,699,32,sr:competitor:143140,"Aney, Jessie",USA,USA,ANE
+2,WTA,2025,6,women,114,-1,698,27,sr:competitor:53288,"Silva, Eden",Great Britain,GBR,SIL
+2,WTA,2025,6,women,115,-1,696,9,sr:competitor:360038,"Stearns, Peyton",USA,USA,STE
+2,WTA,2025,6,women,116,3,693,18,sr:competitor:453301,"Jorge, Matilde",Portugal,PRT,JOR
+2,WTA,2025,6,women,117,-2,689,20,sr:competitor:161270,"Salden, Lara",Belgium,BEL,SAL
+2,WTA,2025,6,women,118,-2,684,22,sr:competitor:67430,"Cascino, Estelle",France,FRA,CAS
+2,WTA,2025,6,women,119,1,672,23,sr:competitor:19847,"Rus, Arantxa",Netherlands,NLD,RUS
+2,WTA,2025,6,women,120,-2,669,33,sr:competitor:418583,"Haverlag, Isabelle",Netherlands,NLD,HAV
+2,WTA,2025,6,women,121,14,663,23,sr:competitor:799304,"Pridankina, Elena",Neutral,,PRI
+2,WTA,2025,6,women,122,3,656,25,sr:competitor:50915,"Plipuech, Peangtarn",Thailand,THA,PLI
+2,WTA,2025,6,women,123,3,650,4,sr:competitor:19546,"Pavlyuchenkova, Anastasia",Neutral,,PAV
+2,WTA,2025,6,women,124,3,649,29,sr:competitor:87090,"Chong, Eudice","Hong Kong, China",HKG,CHO
+2,WTA,2025,6,women,125,-2,640,20,sr:competitor:118096,"Papadakis, Lena",Germany,DEU,PAP
+2,WTA,2025,6,women,126,-5,639,19,sr:competitor:303814,"Tikhonova, Anastasia",Neutral,,TIK
+2,WTA,2025,6,women,127,1,634,32,sr:competitor:628178,"Brooks, Madeleine",Great Britain,GBR,BRO
+2,WTA,2025,6,women,128,13,628,26,sr:competitor:98607,"Chang, Sophie",USA,USA,CHA
+2,WTA,2025,6,women,129,0,613,19,sr:competitor:867519,"Tsao, Chia Yi",Chinese Taipei,TPE,TSA
+2,WTA,2025,6,women,130,-8,610,16,sr:competitor:52489,"Schoofs, Bibiane",Netherlands,NLD,SCH
+2,WTA,2025,6,women,131,-1,605,5,sr:competitor:179146,"Kalinskaya, Anna",Neutral,,KAL
+2,WTA,2025,6,women,132,-1,603,19,sr:competitor:473609,"Kubka, Martyna",Poland,POL,KUB
+2,WTA,2025,6,women,133,-1,602,22,sr:competitor:256447,"Monnet, Carole",France,FRA,MON
+2,WTA,2025,6,women,134,-1,601,13,sr:competitor:64085,"Pigossi, Laura",Brazil,BRA,PIG
+2,WTA,2025,6,women,135,-1,600,14,sr:competitor:771430,"Naef, Celine",Switzerland,CHE,NAE
+2,WTA,2025,6,women,136,0,585,5,sr:competitor:67757,"Pera, Bernarda",USA,USA,PER
+2,WTA,2025,6,women,137,0,585,11,sr:competitor:235260,"Chwalinska, Maja",Poland,POL,CHW
+2,WTA,2025,6,women,138,4,570,29,sr:competitor:61526,"Thombare, Prarthana",India,IND,THO
+2,WTA,2025,6,women,139,0,567,13,sr:competitor:297588,"Romero Gormaz, Leyre",Spain,ESP,ROM
+2,WTA,2025,6,women,140,-2,562,16,sr:competitor:147506,"Fourlis, Jaimee",Australia,AUS,FOU
+2,WTA,2025,6,women,141,2,560,2,sr:competitor:228418,"Navarro, Emma",USA,USA,NAV
+2,WTA,2025,6,women,142,3,559,30,sr:competitor:448121,"Rogers, Anna",USA,USA,ROG
+2,WTA,2025,6,women,143,1,553,18,sr:competitor:226306,"Corley, Ivana",USA,USA,COR
+2,WTA,2025,6,women,144,2,552,5,sr:competitor:133662,"Badosa, Paula",Spain,ESP,BAD
+2,WTA,2025,6,women,145,2,549,10,sr:competitor:345070,"Arseneault, Ariana",Canada,CAN,ARS
+2,WTA,2025,6,women,146,11,546,33,sr:competitor:46528,"Perrin, Conny",Switzerland,CHE,PER
+2,WTA,2025,6,women,147,-40,541,5,sr:competitor:373354,"Cocciaretto, Elisabetta",Italy,ITA,COC
+2,WTA,2025,6,women,148,1,535,27,sr:competitor:45827,"Lechemia, Elixane",France,FRA,LEC
+2,WTA,2025,6,women,149,1,534,17,sr:competitor:71284,"Bains, Naiktha",Great Britain,GBR,BAI
+2,WTA,2025,6,women,150,1,532,6,sr:competitor:152804,"Vondrousova, Marketa",Czechia,CZE,VON
+2,WTA,2025,6,women,151,20,532,27,sr:competitor:99429,"Hule, Petra",Australia,AUS,HUL
+2,WTA,2025,6,women,152,0,530,3,sr:competitor:45902,"Sasnovich, Aliaksandra",Neutral,,SAS
+2,WTA,2025,6,women,153,6,527,14,sr:competitor:319455,"Baptiste, Hailey",USA,USA,BAP
+2,WTA,2025,6,women,154,-14,527,19,sr:competitor:369524,"Erjavec, Veronika",Slovenia,SVN,ERJ
+2,WTA,2025,6,women,155,-2,526,26,sr:competitor:46428,"Maleckova, Jesika",Czechia,CZE,MAL
+2,WTA,2025,6,women,156,-2,523,12,sr:competitor:227390,"Brancaccio, Nuria",Italy,ITA,BRA
+2,WTA,2025,6,women,157,-9,520,16,sr:competitor:108621,"Kempen, Magali",Belgium,BEL,KEM
+2,WTA,2025,6,women,158,-3,520,20,sr:competitor:208125,"Liang, En-Shuo",Chinese Taipei,TPE,LIA
+2,WTA,2025,6,women,159,4,518,24,sr:competitor:235252,"Kozyreva, Maria",Neutral,,KOZ
+2,WTA,2025,6,women,160,-4,518,25,sr:competitor:189384,"Kulambayeva, Zhibek",Kazakhstan,KAZ,KUL
+2,WTA,2025,6,women,161,-3,506,24,sr:competitor:92877,"Fossa Huergo, Nicole",Italy,ITA,FOS
+2,WTA,2025,6,women,162,-2,498,6,sr:competitor:72758,"Cristian, Jaqueline",Romania,ROU,CRI
+2,WTA,2025,6,women,163,-2,495,22,sr:competitor:170880,"Kononova, Maria",Neutral,,KON
+2,WTA,2025,6,women,164,-2,489,32,sr:competitor:143146,"Smith, Alana",USA,USA,SMI
+2,WTA,2025,6,women,165,7,476,29,sr:competitor:65610,"Wagner, Anita",Bosnia & Herzegovina,BIH,WAG
+2,WTA,2025,6,women,166,0,475,4,sr:competitor:42339,"Garcia, Caroline",France,FRA,GAR
+2,WTA,2025,6,women,167,0,475,23,sr:competitor:137932,"Mikulskyte, Justina",Lithuania,LTU,MIK
+2,WTA,2025,6,women,168,0,474,22,sr:competitor:137990,"Failla, Jessica",USA,USA,FAI
+2,WTA,2025,6,women,169,0,474,44,sr:competitor:325837,"Sakellaridi, Sapfo",Greece,GRC,SAK
+2,WTA,2025,6,women,170,-6,474,27,sr:competitor:91916,"Grey, Sarah Beth",Great Britain,GBR,GRE
+2,WTA,2025,6,women,171,-1,472,23,sr:competitor:102637,"McAdoo, Rasheeda",USA,USA,MCA
+2,WTA,2025,6,women,172,1,463,27,sr:competitor:215806,"Hewitt, Dalayna",USA,USA,HEW
+2,WTA,2025,6,women,173,1,461,13,sr:competitor:120666,"Stojanovic, Nina",Serbia,SRB,STO
+2,WTA,2025,6,women,174,2,457,22,sr:competitor:119216,"Herrero Linana, Alicia",Spain,ESP,HER
+2,WTA,2025,6,women,175,2,452,25,sr:competitor:260987,"Osuigwe, Whitney",USA,USA,OSU
+2,WTA,2025,6,women,176,3,451,5,sr:competitor:569013,"Fernandez, Bianca Jolie",Canada,CAN,FER
+2,WTA,2025,6,women,177,4,450,27,sr:competitor:245673,"Feng, Shuo",China,CHN,FEN
+2,WTA,2025,6,women,178,2,442,13,sr:competitor:87834,"Hon, Priscilla",Australia,AUS,HON
+2,WTA,2025,6,women,179,3,441,36,sr:competitor:41359,"Yashina, Ekaterina",Neutral,,YAS
+2,WTA,2025,6,women,180,3,440,10,sr:competitor:105099,"Birrell, Kimberly",Australia,AUS,BIR
+2,WTA,2025,6,women,181,-6,440,31,sr:competitor:88494,"Christie, Freya",Great Britain,GBR,CHR
+2,WTA,2025,6,women,182,3,437,24,sr:competitor:206995,"Rosca, Christina",USA,USA,ROS
+2,WTA,2025,6,women,183,3,437,29,sr:competitor:805538,"Cross, Kayla",Canada,CAN,CRO
+2,WTA,2025,6,women,184,-19,432,18,sr:competitor:82609,"Grammatikopoulou, Valentini",Greece,GRC,GRA
+2,WTA,2025,6,women,185,2,431,14,sr:competitor:26120,"Marino, Rebecca",Canada,CAN,MAR
+2,WTA,2025,6,women,186,2,430,19,sr:competitor:52533,"Jakupovic, Dalila",Slovenia,SVN,JAK
+2,WTA,2025,6,women,187,3,430,18,sr:competitor:250285,"Falkowska, Weronika",Poland,POL,FAL
+2,WTA,2025,6,women,188,7,430,24,sr:competitor:148276,"Zheng, Wushuang",China,CHN,ZHE
+2,WTA,2025,6,women,189,33,425,8,sr:competitor:242630,"Osorio, Camila",Colombia,COL,OSO
+2,WTA,2025,6,women,190,2,422,7,sr:competitor:608348,"Kupres, Mia",Canada,CAN,KUP
+2,WTA,2025,6,women,191,2,421,27,sr:competitor:310984,"Sato, Naho",Japan,JPN,SAT
+2,WTA,2025,6,women,192,6,419,18,sr:competitor:70728,"Bhosale, Rutuja",India,IND,BHO
+2,WTA,2025,6,women,193,-15,419,24,sr:competitor:195408,"Shimizu, Ayano",Japan,JPN,SHI
+2,WTA,2025,6,women,194,-10,417,11,sr:competitor:448081,"Noha Akugue, Noma",Germany,DEU,NOH
+2,WTA,2025,6,women,195,-1,414,14,sr:competitor:52183,"Bara, Irina Maria",Romania,ROU,BARA
+2,WTA,2025,6,women,196,0,407,23,sr:competitor:119874,"Ibbou, Ines",Algeria,DZA,IBB
+2,WTA,2025,6,women,197,0,405,20,sr:competitor:119410,"Krywoj, Melany Solange",Argentina,ARG,KRY
+2,WTA,2025,6,women,198,1,404,12,sr:competitor:160190,"Hartono, Arianne",Netherlands,NLD,HAR
+2,WTA,2025,6,women,199,1,403,23,sr:competitor:45139,"Papamichail, Despina",Greece,GRC,PAP
+2,WTA,2025,6,women,200,1,401,11,sr:competitor:110055,"Bronzetti, Lucia",Italy,ITA,BRO
+2,WTA,2025,6,women,201,-12,401,10,sr:competitor:789688,"Ngounoue, Clervie",USA,USA,NGO
+2,WTA,2025,6,women,202,0,401,26,sr:competitor:64315,"Kuwata, Hiroko",Japan,JPN,KUW
+2,WTA,2025,6,women,203,0,400,4,sr:competitor:45915,"Yang, Zhaoxuan",China,CHN,YAN
+2,WTA,2025,6,women,204,1,399,27,sr:competitor:97031,"Christofi, Eleni",Greece,GRC,CHR
+2,WTA,2025,6,women,205,8,398,35,sr:competitor:59762,"Barnett, Alicia",Great Britain,GBR,BAR
+2,WTA,2025,6,women,206,1,394,21,sr:competitor:414533,"Abbagnato, Anastasia",Italy,ITA,ABB
+2,WTA,2025,6,women,207,1,394,23,sr:competitor:93657,"Karamoko, Naima",Switzerland,CHE,KAR
+2,WTA,2025,6,women,208,1,394,18,sr:competitor:183957,"Kobori, Momoko",Japan,JPN,KOB
+2,WTA,2025,6,women,209,1,387,28,sr:competitor:46625,"Raina, Ankita",India,IND,RAI
+2,WTA,2025,6,women,210,1,387,19,sr:competitor:156040,"Cho, I-Hsuan",Chinese Taipei,TPE,CHO
+2,WTA,2025,6,women,210,1,387,19,sr:competitor:210670,"Cho, Yi Tsen",Chinese Taipei,TPE,CHO
+2,WTA,2025,6,women,212,14,385,21,sr:competitor:203893,"Kucmova, Aneta",Czechia,CZE,KUC
+2,WTA,2025,6,women,213,2,385,26,sr:competitor:378144,"Karatancheva, Lia",Bulgaria,BGR,KAR
+2,WTA,2025,6,women,214,2,384,20,sr:competitor:676251,"Wuerth, Tara",Croatia,HRV,WUR
+2,WTA,2025,6,women,215,2,380,10,sr:competitor:49118,"Harrison, Catherine",USA,USA,HAR
+2,WTA,2025,6,women,216,4,375,31,sr:competitor:80427,"Osborne, Alexandra",Australia,AUS,OSB
+2,WTA,2025,6,women,217,4,375,18,sr:competitor:385206,"Radisic, Nika",Slovenia,SVN,RAD
+2,WTA,2025,6,women,218,-27,372,8,sr:competitor:110299,"Zidansek, Tamara",Slovenia,SVN,ZID
+2,WTA,2025,6,women,219,0,370,20,sr:competitor:776340,"Joint, Maya",Australia,AUS,JOI
+2,WTA,2025,6,women,220,14,370,23,sr:competitor:353358,"Tran, Lian",Netherlands,NLD,TRA
+2,WTA,2025,6,women,221,11,368,23,sr:competitor:79443,"Cabrera, Lizette",Australia,AUS,CAB
+2,WTA,2025,6,women,222,2,365,5,sr:competitor:192108,"Yastremska, Dayana",Ukraine,UKR,YAS
+2,WTA,2025,6,women,223,-5,365,20,sr:competitor:568715,"Semenistaja, Darja",Latvia,LVA,SEM
+2,WTA,2025,6,women,224,-10,364,27,sr:competitor:244216,"Giavara, Haley",USA,USA,GIA
+2,WTA,2025,6,women,225,0,361,17,sr:competitor:190882,"Aiava, Destanee",Australia,AUS,AIA
+2,WTA,2025,6,women,226,1,360,13,sr:competitor:762762,"Seidel, Ella",Germany,DEU,SEI
+2,WTA,2025,6,women,227,12,353,10,sr:competitor:41737,"Jang, Su Jeong",Republic of Korea,KOR,JAN
+2,WTA,2025,6,women,228,-5,352,15,sr:competitor:416473,"Reyngold, Ekaterina",Neutral,,REY
+2,WTA,2025,6,women,229,-1,351,20,sr:competitor:23688,"Moore, Tara",Great Britain,GBR,MOO
+2,WTA,2025,6,women,230,-1,351,23,sr:competitor:904005,"Ibragimova, Alevtina",Neutral,,IBR
+2,WTA,2025,6,women,231,-27,349,10,sr:competitor:662615,"Salkova, Dominika",Czechia,CZE,SAL
+2,WTA,2025,6,women,232,-1,344,21,sr:competitor:496316,"Gimbrere, Jasmijn",Netherlands,NLD,GIM
+2,WTA,2025,6,women,233,0,330,18,sr:competitor:505998,"Zamarripa, Maribella",USA,USA,ZAM
+2,WTA,2025,6,women,234,1,328,18,sr:competitor:192572,"Portillo Ramirez, Maria Jose",Mexico,MEX,POR
+2,WTA,2025,6,women,235,7,327,21,sr:competitor:282597,"Park, Sohyun",Republic of Korea,KOR,PAR
+2,WTA,2025,6,women,236,0,326,20,sr:competitor:448613,"Falkner, Ziva",Slovenia,SVN,FAL
+2,WTA,2025,6,women,237,0,326,19,sr:competitor:763112,"Struplova, Julie",Czechia,CZE,STR
+2,WTA,2025,6,women,238,0,325,4,sr:competitor:55401,"Jabeur, Ons",Tunisia,TUN,JAB
+2,WTA,2025,6,women,239,1,323,12,sr:competitor:43527,"Kumkhum, Luksika",Thailand,THA,KUM
+2,WTA,2025,6,women,240,-10,321,20,sr:competitor:499098,"Ito, Aoi",Japan,JPN,ITO
+2,WTA,2025,6,women,241,3,316,21,sr:competitor:152106,"Zaar, Lisa",Sweden,SWE,ZAA
+2,WTA,2025,6,women,242,-36,316,19,sr:competitor:73500,"Loeb, Jamie",USA,USA,LOE
+2,WTA,2025,6,women,243,9,316,12,sr:competitor:341216,"Charaeva, Alina",Neutral,,CHA
+2,WTA,2025,6,women,244,2,315,28,sr:competitor:59213,"Perez Garcia, Maria Paulina",Colombia,COL,PER
+2,WTA,2025,6,women,245,2,315,20,sr:competitor:445209,"Xiao, Zhenghua",China,CHN,XIA
+2,WTA,2025,6,women,246,-1,308,22,sr:competitor:136372,"Parnaby, Alana",Australia,AUS,PAR
+2,WTA,2025,6,women,247,1,307,6,sr:competitor:172590,"Burrage, Jodie",Great Britain,GBR,BUR
+2,WTA,2025,6,women,248,8,306,35,sr:competitor:233478,"Bayerlova, Michaela",Czechia,CZE,BAY
+2,WTA,2025,6,women,249,1,303,33,sr:competitor:47985,"Marcinkevica, Diana",Latvia,LVA,MAR
+2,WTA,2025,6,women,250,1,300,8,sr:competitor:141892,"Carle, Maria",Argentina,ARG,CAR
+2,WTA,2025,6,women,251,2,299,22,sr:competitor:60028,"Zeballos Melgar, Noelia",Bolivia,BOL,ZEM
+2,WTA,2025,6,women,252,-11,299,24,sr:competitor:731441,"Vargova, Nina",Slovakia,SVK,VAR
+2,WTA,2025,6,women,253,4,298,23,sr:competitor:181062,"Kung, Leonie",Switzerland,CHE,KUN
+2,WTA,2025,6,women,254,1,297,15,sr:competitor:194690,"Mateas, Maria",USA,USA,MAT
+2,WTA,2025,6,women,255,-12,293,18,sr:competitor:222546,"Kuzmova, Katarina",Slovakia,SVK,KUZ
+2,WTA,2025,6,women,256,23,292,14,sr:competitor:517274,"Rajecki, Amelia",Great Britain,GBR,RAJ
+2,WTA,2025,6,women,257,1,292,24,sr:competitor:807358,"Rakotomanga Rajaonah, Tiantsoa Sarah",France,FRA,RAK
+2,WTA,2025,6,women,258,1,292,22,sr:competitor:70822,"Morisaki, Kanako",Japan,JPN,MOR
+2,WTA,2025,6,women,259,1,291,20,sr:competitor:343066,"Hosogi, Sakura",Japan,JPN,HOS
+2,WTA,2025,6,women,260,4,288,9,sr:competitor:202363,"Sun, Lulu",New Zealand,NZL,SUN
+2,WTA,2025,6,women,261,4,286,28,sr:competitor:409673,"Zelnickova, Radka",Slovakia,SVK,ZEL
+2,WTA,2025,6,women,262,4,282,10,sr:competitor:41374,"Tomova, Viktoriya",Bulgaria,BGR,TOM
+2,WTA,2025,6,women,263,17,278,25,sr:competitor:290994,"Wong, Hong Yi Cody","Hong Kong, China",HKG,WON
+2,WTA,2025,6,women,264,17,278,18,sr:competitor:673491,"Szabo, Briana",Romania,ROU,SZA
+2,WTA,2025,6,women,265,19,277,11,sr:competitor:812502,"Xu, Mingge",Great Britain,GBR,MIN
+2,WTA,2025,6,women,266,20,276,3,sr:competitor:242602,"McNally, Catherine",USA,USA,MCC
+2,WTA,2025,6,women,267,72,275,15,sr:competitor:731427,"Micic, Elena",Australia,AUS,MIC
+2,WTA,2025,6,women,268,0,274,17,sr:competitor:355958,"Visscher, Stephanie Judith",Netherlands,NLD,VIS
+2,WTA,2025,6,women,269,0,272,4,sr:competitor:845268,"Korneeva, Alina",Neutral,,KOR
+2,WTA,2025,6,women,270,0,272,17,sr:competitor:132412,"Fita Boluda, Angela",Spain,ESP,FIT
+2,WTA,2025,6,women,271,55,271,8,sr:competitor:675189,"Preston, Taylah",Australia,AUS,PRE
+2,WTA,2025,6,women,272,-10,271,24,sr:competitor:46650,"Kolb, Nadia",Ukraine,UKR,KOL
+2,WTA,2025,6,women,272,-10,271,23,sr:competitor:67194,"Kolb, Maryna",Ukraine,UKR,KOL
+2,WTA,2025,6,women,274,-3,271,14,sr:competitor:234398,"Nahimana, Sada",Burundi,BDI,NAH
+2,WTA,2025,6,women,275,-2,268,16,sr:competitor:292540,"Matsuda, Misaki",Japan,JPN,MAT
+2,WTA,2025,6,women,276,-9,268,18,sr:competitor:86894,"Shinde, Vasanti",India,IND,SHI
+2,WTA,2025,6,women,277,-23,267,17,sr:competitor:283489,"Imamura, Saki",Japan,JPN,IMA
+2,WTA,2025,6,women,278,-4,266,15,sr:competitor:868599,"McDonald, Ella",Great Britain,GBR,MCD
+2,WTA,2025,6,women,279,-4,265,8,sr:competitor:755469,"Todoni, Anca Alexia",Romania,ROU,TOD
+2,WTA,2025,6,women,280,-4,264,19,sr:competitor:343294,"Kubanova, Karolina",Czechia,CZE,KUB
+2,WTA,2025,6,women,281,-4,264,22,sr:competitor:282057,"Guo, Meiqi",China,CHN,GUO
+2,WTA,2025,6,women,282,-4,263,18,sr:competitor:432605,"Makarova, Ekaterina",Neutral,,MAK
+2,WTA,2025,6,women,283,0,261,9,sr:competitor:534045,"Gibson, Talia",Australia,AUS,GIB
+2,WTA,2025,6,women,284,1,261,18,sr:competitor:265553,"Naito, Yuki",Japan,JPN,NAI
+2,WTA,2025,6,women,285,2,260,3,sr:competitor:62924,"Boulter, Katie",Great Britain,GBR,BOU
+2,WTA,2025,6,women,286,17,258,16,sr:competitor:51315,"Anderson, Robin",USA,USA,AND
+2,WTA,2025,6,women,287,3,258,17,sr:competitor:198498,"Hutchinson, Holly",Great Britain,GBR,HUT
+2,WTA,2025,6,women,288,3,258,22,sr:competitor:289093,"Belgraver, Julie",France,FRA,BEL
+2,WTA,2025,6,women,289,3,257,8,sr:competitor:115507,"Bolsova, Aliona",Spain,ESP,BOL
+2,WTA,2025,6,women,290,3,257,3,sr:competitor:75825,"Bektas, Emina",USA,USA,BEK
+2,WTA,2025,6,women,291,15,256,10,sr:competitor:165866,"Miyazaki, Yuriko Lily",Great Britain,GBR,MIY
+2,WTA,2025,6,women,292,2,256,15,sr:competitor:142942,"Bozovic, Alexandra",Australia,AUS,BOZ
+2,WTA,2025,6,women,293,2,255,13,sr:competitor:278943,"Lansere, Sofya",Neutral,,LAN
+2,WTA,2025,6,women,294,36,252,18,sr:competitor:223862,"Laboutkova, Aneta",Czechia,CZE,LAB
+2,WTA,2025,6,women,295,17,251,10,sr:competitor:319349,"Rouvroy, Margaux",France,FRA,ROU
+2,WTA,2025,6,women,296,0,251,13,sr:competitor:63220,"Ponchet, Jessika",France,FRA,PON
+2,WTA,2025,6,women,297,0,248,15,sr:competitor:48486,"Gorgodze, Ekaterine",Georgia,GEO,GOR
+2,WTA,2025,6,women,298,1,246,10,sr:competitor:337813,"Riera, Julia",Argentina,ARG,RIE
+2,WTA,2025,6,women,299,1,246,18,sr:competitor:567285,"Hietaranta, Laura",Finland,FIN,HIE
+2,WTA,2025,6,women,300,1,246,19,sr:competitor:104929,"Tona, Miriana",Italy,ITA,TON
+2,WTA,2025,6,women,301,1,245,7,sr:competitor:99405,"Inglis, Maddison",Australia,AUS,ING
+2,WTA,2025,6,women,302,-14,243,19,sr:competitor:801396,"Gureva, Anastasiia",Neutral,,GUR
+2,WTA,2025,6,women,303,1,242,32,sr:competitor:315663,"Barry, Monique",New Zealand,NZL,BAR
+2,WTA,2025,6,women,304,1,242,18,sr:competitor:510530,"Abe, Hiromi",Japan,JPN,ABE
+2,WTA,2025,6,women,305,2,241,11,sr:competitor:54397,"Tig, Patricia Maria",Romania,ROU,TIG
+2,WTA,2025,6,women,306,2,240,22,sr:competitor:447703,"Sato, Hikaru",Japan,JPN,SAT
+2,WTA,2025,6,women,307,-25,238,22,sr:competitor:122668,"Daniel, Jaeda",USA,USA,DAN
+2,WTA,2025,6,women,308,1,237,24,sr:competitor:70970,"Bhatia, Riya",India,IND,BHA
+2,WTA,2025,6,women,309,-20,236,13,sr:competitor:194572,"Dartron, Emeline",France,FRA,DAR
+2,WTA,2025,6,women,310,0,236,9,sr:competitor:627278,"Eala, Alexandra",Philippines,PHL,EAL
+2,WTA,2025,6,women,311,0,236,14,sr:competitor:145930,"Hayashi, Erina",Japan,JPN,HAY
+2,WTA,2025,6,women,312,-14,236,21,sr:competitor:395740,"Bhamidipaty, Shrivalli Rashmikaa",India,IND,BHA
+2,WTA,2025,6,women,313,0,232,12,sr:competitor:106341,"Knutson, Gabriela",Czechia,CZE,KNU
+2,WTA,2025,6,women,314,0,232,26,sr:competitor:154806,"Laskutova, Ksenia",Russia,RUS,LAS
+2,WTA,2025,6,women,315,0,231,7,sr:competitor:51477,"Mitu, Andreea",Romania,ROU,MIT
+2,WTA,2025,6,women,316,25,231,12,sr:competitor:896765,"Ishii, Sayaka",Japan,JPN,ISH
+2,WTA,2025,6,women,317,0,229,13,sr:competitor:120664,"Pedretti, Thaisa Grana",Brazil,BRA,PED
+2,WTA,2025,6,women,318,0,228,11,sr:competitor:45900,"Marozava, Lidziya",Neutral,,MAR
+2,WTA,2025,6,women,319,9,228,15,sr:competitor:337811,"Ortenzi, Jazmin",Argentina,ARG,ORT
+2,WTA,2025,6,women,320,-1,228,18,sr:competitor:202795,"Vismane, Daniela",Latvia,LVA,VIS
+2,WTA,2025,6,women,321,-5,228,21,sr:competitor:870981,"Li, Yu-Yun",Chinese Taipei,TPE,YU-
+2,WTA,2025,6,women,322,-2,227,15,sr:competitor:285629,"Hindova, Denisa",Czechia,CZE,HIN
+2,WTA,2025,6,women,323,-2,227,25,sr:competitor:810694,"Okuwaki, Rinon",Japan,JPN,OKU
+2,WTA,2025,6,women,324,-2,225,11,sr:competitor:586739,"Ambrosio, Silvia",Italy,ITA,AMB
+2,WTA,2025,6,women,325,25,224,23,sr:competitor:63238,"Morderger, Yana",Germany,DEU,MOR
+2,WTA,2025,6,women,326,-1,223,22,sr:competitor:61922,"Drazic, Mariana",Croatia,HRV,DRA
+2,WTA,2025,6,women,327,0,222,14,sr:competitor:49963,"Omae, Akiko",Japan,JPN,OMA
+2,WTA,2025,6,women,328,1,221,6,sr:competitor:728549,"Valentova, Tereza",Czechia,CZE,VAL
+2,WTA,2025,6,women,329,2,220,21,sr:competitor:345134,"Lee, Ya-Hsin",Chinese Taipei,TPE,LEE
+2,WTA,2025,6,women,330,2,219,13,sr:competitor:129534,"Hruncakova, Viktoria",Slovakia,SVK,HRU
+2,WTA,2025,6,women,331,3,219,16,sr:competitor:936009,"van Emst, Sarah",Netherlands,NLD,VAN
+2,WTA,2025,6,women,332,3,219,22,sr:competitor:25822,"Shapatava, Sofia",Georgia,GEO,SHA
+2,WTA,2025,6,women,333,4,217,7,sr:competitor:210716,"Lamens, Suzan",Netherlands,NLD,LAM
+2,WTA,2025,6,women,334,4,217,18,sr:competitor:209716,"Mansouri, Yasmine",France,FRA,MAN
+2,WTA,2025,6,women,335,8,215,24,sr:competitor:213144,"Lemaitre, Tiphanie",France,FRA,LEM
+2,WTA,2025,6,women,336,-75,214,9,sr:competitor:87078,"Hourigan, Paige Mary",New Zealand,NZL,HOU
+2,WTA,2025,6,women,337,7,214,21,sr:competitor:849533,"Lin, Fang An",Chinese Taipei,TPE,LIN
+2,WTA,2025,6,women,338,7,213,16,sr:competitor:217036,"Malygina, Elena",Estonia,EST,MAL
+2,WTA,2025,6,women,339,-3,212,27,sr:competitor:153744,"Pereira, Rebeca",Brazil,BRA,PER
+2,WTA,2025,6,women,340,-17,212,17,sr:competitor:513582,"Chaudhari, Vaidehi",India,IND,CHA
+2,WTA,2025,6,women,341,5,211,11,sr:competitor:406199,"Jacquemot, Elsa",France,FRA,JAC
+2,WTA,2025,6,women,342,9,211,22,sr:competitor:254553,"Nagy, Adrienn",Hungary,HUN,NAG
+2,WTA,2025,6,women,343,5,209,6,sr:competitor:137962,"Day, Kayla",USA,USA,DAY
+2,WTA,2025,6,women,344,5,209,12,sr:competitor:1020177,"Huang, Yujia",China,CHN,HUA
+2,WTA,2025,6,women,345,-73,209,24,sr:competitor:233266,"Ovcharenko, Ekaterina",Neutral,,OVC
+2,WTA,2025,6,women,346,6,207,4,sr:competitor:225130,"Starodubtseva, Yuliia",Ukraine,UKR,STA
+2,WTA,2025,6,women,347,0,206,29,sr:competitor:201105,"Yuan, Chengyiyi",China,CHN,YUA
+2,WTA,2025,6,women,348,7,205,11,sr:competitor:467037,"Kudermetova, Polina",Neutral,,KUD
+2,WTA,2025,6,women,349,39,205,18,sr:competitor:119496,"McPhee, Kaylah",Australia,AUS,MCP
+2,WTA,2025,6,women,350,-17,204,17,sr:competitor:132988,"MA, Yexin",China,CHN,YEX
+2,WTA,2025,6,women,351,5,204,13,sr:competitor:588449,"Laskevich, Evialina",Neutral,,LAS
+2,WTA,2025,6,women,352,5,203,11,sr:competitor:329009,"Ryser, Valentina",Switzerland,CHE,RYS
+2,WTA,2025,6,women,353,5,202,2,sr:competitor:341112,"Zakharova, Anastasia",Neutral,,ZAK
+2,WTA,2025,6,women,354,23,202,6,sr:competitor:153736,"Glushko, Lina",Israel,ISR,GLU
+2,WTA,2025,6,women,355,4,201,24,sr:competitor:435794,"Zolotareva, Anastasia",Neutral,,ZOL
+2,WTA,2025,6,women,356,25,198,16,sr:competitor:164852,"Okalova, Martina",Slovakia,SVK,OKA
+2,WTA,2025,6,women,357,3,198,12,sr:competitor:190870,"Collins, Ali",Great Britain,GBR,COL
+2,WTA,2025,6,women,358,24,198,14,sr:competitor:750327,"Iatcenko, Polina",Neutral,,IAT
+2,WTA,2025,6,women,359,2,197,14,sr:competitor:813490,"Hobgarski, Katharina",Germany,DEU,HOB
+2,WTA,2025,6,women,360,2,197,24,sr:competitor:47876,"Shinikova, Isabella",Bulgaria,BGR,SHI
+2,WTA,2025,6,women,361,2,196,26,sr:competitor:158636,"Prisacariu, Andreea",Romania,ROU,PRI
+2,WTA,2025,6,women,362,-38,196,22,sr:competitor:37638,"Sema, Erika",Japan,JPN,SEM
+2,WTA,2025,6,women,363,1,194,10,sr:competitor:403329,"Toth, Amarissa Kiara",Hungary,HUN,TOT
+2,WTA,2025,6,women,364,1,194,10,sr:competitor:720625,"Radivojevic, Lola",Serbia,SRB,RAD
+2,WTA,2025,6,women,365,-11,194,10,sr:competitor:226092,"Shimizu, Eri",Japan,JPN,SHI
+2,WTA,2025,6,women,366,0,192,17,sr:competitor:624838,"Shi, Han",China,CHN,SHI
+2,WTA,2025,6,women,367,0,192,19,sr:competitor:745799,"Urgesi, Federica",Italy,ITA,URG
+2,WTA,2025,6,women,368,23,192,23,sr:competitor:54983,"Morderger, Tayisiya",Germany,DEU,MOR
+2,WTA,2025,6,women,369,-1,191,12,sr:competitor:496378,"Yamazaki, Ikumi",Japan,JPN,YAM
+2,WTA,2025,6,women,370,-1,191,25,sr:competitor:99775,"Saigo, Yukina",Japan,JPN,SAI
+2,WTA,2025,6,women,371,-1,190,11,sr:competitor:153748,"Jones, Makenna",USA,USA,JON
+2,WTA,2025,6,women,372,-1,189,19,sr:competitor:330689,"Kovapitukted, Punnin",Thailand,THA,KOV
+2,WTA,2025,6,women,373,-1,188,32,sr:competitor:59662,"Sanchez, Ana Sofia",Mexico,MEX,SAN
+2,WTA,2025,6,women,374,-1,188,15,sr:competitor:46273,"Dinu, Cristina",Romania,ROU,DIN
+2,WTA,2025,6,women,375,41,187,31,sr:competitor:78785,"Rodriguez, Victoria",Mexico,MEX,ROD
+2,WTA,2025,6,women,376,-2,187,21,sr:competitor:182056,"Robbe, Alice",France,FRA,ROB
+2,WTA,2025,6,women,377,-2,186,18,sr:competitor:42864,"Lizarazo, Yuliana",Colombia,COL,LIZ
+2,WTA,2025,6,women,378,-2,186,12,sr:competitor:843378,"Perez Alarcon, Lucciana",Peru,PER,PER
+2,WTA,2025,6,women,379,-1,186,10,sr:competitor:105063,"Gavrila, Oana",Romania,ROU,GAV
+2,WTA,2025,6,women,380,-27,185,12,sr:competitor:213140,"Lene, Emma",France,FRA,LEN
+2,WTA,2025,6,women,381,-2,185,24,sr:competitor:750329,"Candiotto, Ana",Brazil,BRA,CAN
+2,WTA,2025,6,women,382,-2,184,2,sr:competitor:42459,"Rogers, Shelby",USA,USA,ROG
+2,WTA,2025,6,women,383,15,184,28,sr:competitor:20158,"Webley-Smith, Emily",Great Britain,GBR,WEB
+2,WTA,2025,6,women,384,-42,183,18,sr:competitor:280989,"Kawamura, Mana",Japan,JPN,KAW
+2,WTA,2025,6,women,385,-1,181,5,sr:competitor:245295,"Waltert, Simona",Switzerland,CHE,WAL
+2,WTA,2025,6,women,386,-1,181,16,sr:competitor:436690,"Tkacheva, Mariia",Neutral,,TKA
+2,WTA,2025,6,women,387,-1,181,18,sr:competitor:283483,"Kozaki, Funa",Japan,JPN,KOZ
+2,WTA,2025,6,women,388,2,181,23,sr:competitor:152762,"Kuczer, Daria",Poland,POL,KUC
+2,WTA,2025,6,women,389,-2,180,20,sr:competitor:565020,"Maklakova, Ekaterina",Neutral,,MAK
+2,WTA,2025,6,women,390,2,179,16,sr:competitor:348196,"Amariei, Ilinca Dalina",Romania,ROU,AMA
+2,WTA,2025,6,women,391,20,179,18,sr:competitor:751899,"Brace, Cadence",Canada,CAN,BRA
+2,WTA,2025,6,women,392,-3,177,12,sr:competitor:960043,"Zolotareva, Rada",Neutral,,ZOL
+2,WTA,2025,6,women,393,0,173,17,sr:competitor:262023,"Wang, Meiling",China,CHN,WAN
+2,WTA,2025,6,women,394,0,172,6,sr:competitor:110803,"Minnen, Greet",Belgium,BEL,MIN
+2,WTA,2025,6,women,395,1,172,24,sr:competitor:66516,"Ayukawa, Mana",Japan,JPN,AYU
+2,WTA,2025,6,women,396,4,171,10,sr:competitor:202623,"Zavatska, Katarina",Ukraine,UKR,ZAV
+2,WTA,2025,6,women,397,0,171,4,sr:competitor:48455,"Golubic, Viktorija",Switzerland,CHE,GOL
+2,WTA,2025,6,women,398,29,170,13,sr:competitor:282219,"Sakatsume, Himeno",Japan,JPN,SAK
+2,WTA,2025,6,women,399,2,170,16,sr:competitor:130624,"Gasanova, Anastasia",Neutral,,GAS
+2,WTA,2025,6,women,400,2,170,18,sr:competitor:1020859,"Pawlikowska,  Zuzanna",Poland,POL,PAW
+2,WTA,2025,6,women,401,-18,169,14,sr:competitor:138654,"Duerst, Jenny",Switzerland,CHE,DUE
+2,WTA,2025,6,women,402,55,168,9,sr:competitor:58053,"Sharma, Astra",Australia,AUS,SHA
+2,WTA,2025,6,women,403,0,168,16,sr:competitor:299258,"Bartone, Kamilla",Latvia,LVA,BAR
+2,WTA,2025,6,women,404,0,168,22,sr:competitor:206957,"Nagata, Anri",Japan,JPN,NAG
+2,WTA,2025,6,women,405,0,167,12,sr:competitor:280635,"Schmidt, Antonia",Germany,DEU,SCH
+2,WTA,2025,6,women,406,0,166,14,sr:competitor:58423,"Stevanovic, Natalija",Serbia,SRB,STE
+2,WTA,2025,6,women,407,0,166,13,sr:competitor:196664,"Shalimova, Ekaterina",Neutral,,SHA
+2,WTA,2025,6,women,408,0,166,22,sr:competitor:72634,"Ozeki, Michika",Japan,JPN,OZE
+2,WTA,2025,6,women,409,0,165,3,sr:competitor:18588,"Safarova, Lucie",Czechia,CZE,SAF
+2,WTA,2025,6,women,410,13,164,26,sr:competitor:171354,"Romero, Camila",Ecuador,ECU,ROM
+2,WTA,2025,6,women,411,-16,163,19,sr:competitor:741607,"Simunyu, Celine",Ireland,IRL,SIM
+2,WTA,2025,6,women,412,0,162,5,sr:competitor:47948,"Rosolska, Alicja",Poland,POL,ROS
+2,WTA,2025,6,women,413,1,162,6,sr:competitor:264117,"Bolton, Elysia",Australia,AUS,BOL
+2,WTA,2025,6,women,414,1,160,4,sr:competitor:366114,"Avanesyan, Elina",Armenia,ARM,AVA
+2,WTA,2025,6,women,415,2,160,19,sr:competitor:782216,"Drugdova, Salma",Slovakia,SVK,DRU
+2,WTA,2025,6,women,416,3,159,27,sr:competitor:80723,"Herazo Gonzalez, Maria Fernanda",Colombia,COL,HER
+2,WTA,2025,6,women,417,3,159,10,sr:competitor:98523,"Ye, Qiu Yu",China,CHN,QIU
+2,WTA,2025,6,women,418,4,159,30,sr:competitor:341238,"Boehner, Laura",Germany,DEU,BOE
+2,WTA,2025,6,women,419,-1,158,6,sr:competitor:261583,"Li, Ann",USA,USA,ANN
+2,WTA,2025,6,women,420,29,158,18,sr:competitor:246945,"Da Silva Fick, Gabriella",Australia,AUS,DA
+2,WTA,2025,6,women,421,141,157,6,sr:competitor:45584,"Zhu, Lin",China,CHN,ZHU
+2,WTA,2025,6,women,422,2,157,13,sr:competitor:64606,"Cabaj Awad, Jacqueline",Sweden,SWE,CAB
+2,WTA,2025,6,women,423,14,156,4,sr:competitor:19876,"Wickmayer, Yanina",Belgium,BEL,WIC
+2,WTA,2025,6,women,424,2,156,19,sr:competitor:827440,"Fedorova, Aglaya",Neutral,,FED
+2,WTA,2025,6,women,425,4,155,22,sr:competitor:873729,"Bojica, Stefania",Romania,ROU,BOJ
+2,WTA,2025,6,women,426,-5,154,15,sr:competitor:389048,"Weckerle, Marie",Luxembourg,LUX,WEC
+2,WTA,2025,6,women,427,1,153,6,sr:competitor:134532,"You, Xiaodi",China,CHN,YOU
+2,WTA,2025,6,women,428,2,152,20,sr:competitor:98105,"Matoula, Martha",Greece,GRC,MAT
+2,WTA,2025,6,women,429,2,151,10,sr:competitor:107327,"In-Albon, Ylena",Switzerland,CHE,IN-
+2,WTA,2025,6,women,430,2,151,5,sr:competitor:49358,"Pattinama Kerkhove, Lesley",Netherlands,NLD,PAK
+2,WTA,2025,6,women,431,2,151,13,sr:competitor:119664,"Smith, Alicia",Australia,AUS,SMI
+2,WTA,2025,6,women,432,2,151,13,sr:competitor:842594,"Li, Zongyu",China,CHN,ZON
+2,WTA,2025,6,women,433,9,150,9,sr:competitor:103375,"Serban, Raluca Georgiana",Cyprus,CYP,SER
+2,WTA,2025,6,women,434,2,150,13,sr:competitor:221510,"Chiesa, Enola",Italy,ITA,CHI
+2,WTA,2025,6,women,435,266,148,14,sr:competitor:102191,"Aksu, Ayla",Turkiye,TUR,AKS
+2,WTA,2025,6,women,436,2,148,15,sr:competitor:677411,"Barrera Aguirre, Isabella",USA,USA,BAR
+2,WTA,2025,6,women,437,2,148,19,sr:competitor:766176,"Di Girolami, Tilwith",Belgium,BEL,DI
+2,WTA,2025,6,women,438,2,147,16,sr:competitor:133080,"Hinojosa Gomez, Jessica",Mexico,MEX,HIN
+2,WTA,2025,6,women,439,2,147,19,sr:competitor:511932,"Kovaleva, Anastasia",Neutral,,KOV
+2,WTA,2025,6,women,440,3,146,25,sr:competitor:185412,"Labrana, Fernanda",Chile,CHL,LAB
+2,WTA,2025,6,women,441,28,146,11,sr:competitor:812476,"Zaytseva, Ksenia",Neutral,,ZAY
+2,WTA,2025,6,women,442,4,145,19,sr:competitor:831262,"Yamalapalli, Sahaja",India,IND,YAM
+2,WTA,2025,6,women,443,2,145,19,sr:competitor:522258,"Ricci, Beatrice",Italy,ITA,RIC
+2,WTA,2025,6,women,444,4,144,6,sr:competitor:517296,"Falei, Aliona",Neutral,,FAL
+2,WTA,2025,6,women,445,5,143,24,sr:competitor:171026,"Tsygourova, Katerina",Switzerland,CHE,TSY
+2,WTA,2025,6,women,446,5,142,13,sr:competitor:1027517,"Ebeling Koning, Loes",Netherlands,NLD,EBE
+2,WTA,2025,6,women,447,5,142,17,sr:competitor:341196,"Back, Dayeon",Republic of Korea,KOR,BAC
+2,WTA,2025,6,women,448,-1,142,19,sr:competitor:371556,"Jeong, Boyoung",Republic of Korea,KOR,JEO
+2,WTA,2025,6,women,449,-50,141,3,sr:competitor:499484,"Montgomery, Robin",USA,USA,MON
+2,WTA,2025,6,women,450,3,141,19,sr:competitor:380368,"Sebestova, Ivana",Czechia,CZE,SEB
+2,WTA,2025,6,women,451,3,140,7,sr:competitor:329535,"Tauson, Clara",Denmark,DNK,TAU
+2,WTA,2025,6,women,452,-27,140,11,sr:competitor:655811,"Avdeeva, Julia",Neutral,,AVD
+2,WTA,2025,6,women,453,2,140,16,sr:competitor:88290,"Bejenaru, Karola Patricia",Romania,ROU,BEJ
+2,WTA,2025,6,women,454,2,140,19,sr:competitor:522848,"Rocchetti, Sofia",Italy,ITA,ROC
+2,WTA,2025,6,women,455,41,139,10,sr:competitor:98733,"Burillo Escorihuela, Irene",Spain,ESP,BUR
+2,WTA,2025,6,women,456,2,139,13,sr:competitor:906635,"Shubladze, Alexandra",Neutral,,SHU
+2,WTA,2025,6,women,457,4,138,9,sr:competitor:880229,"Cayetano, Eryn",USA,USA,CAY
+2,WTA,2025,6,women,458,4,138,14,sr:competitor:583869,"Pavlou, Dimitra",Greece,GRC,PAV
+2,WTA,2025,6,women,459,4,138,21,sr:competitor:96981,"Xun, Fang Ying",China,CHN,XUN
+2,WTA,2025,6,women,460,5,137,11,sr:competitor:52388,"Hesse, Amandine",France,FRA,HES
+2,WTA,2025,6,women,461,3,137,14,sr:competitor:310982,"Naklo, Thasaporn",Thailand,THA,NAK
+2,WTA,2025,6,women,462,39,137,9,sr:competitor:804342,"Stoiber, Ranah Akua",Great Britain,GBR,STO
+2,WTA,2025,6,women,463,3,137,23,sr:competitor:111149,"Samir, Sandra",Egypt,EGY,SAM
+2,WTA,2025,6,women,464,3,136,3,sr:competitor:595220,"Stakusic, Marina",Canada,CAN,STA
+2,WTA,2025,6,women,465,3,136,9,sr:competitor:431743,"Okutoyi, Angella",Kenya,KEN,OKU
+2,WTA,2025,6,women,466,4,136,17,sr:competitor:476218,"Kawaguchi, Natsumi",Japan,JPN,KAW
+2,WTA,2025,6,women,467,4,135,13,sr:competitor:739667,"Pedone, Giorgia",Italy,ITA,PED
+2,WTA,2025,6,women,468,-33,135,22,sr:competitor:569009,"Ccuno, Romina",Peru,PER,CCU
+2,WTA,2025,6,women,469,3,134,9,sr:competitor:342788,"Curmi, Francesca",Malta,MLT,CUR
+2,WTA,2025,6,women,470,3,133,22,sr:competitor:265743,"Burdina, Evgeniya",Neutral,,BUR
+2,WTA,2025,6,women,471,3,132,8,sr:competitor:46661,"Gamiz, Andrea",Venezuela,VEN,GAM
+2,WTA,2025,6,women,472,-28,132,17,sr:competitor:315623,"Wang, Jiaqi",China,CHN,WAN
+2,WTA,2025,6,women,473,2,132,12,sr:competitor:340365,"Milovanovic, Elena",Serbia,SRB,MIL
+2,WTA,2025,6,women,474,7,132,16,sr:competitor:858867,"Pace, Francesca",Italy,ITA,PAC
+2,WTA,2025,6,women,475,3,131,2,sr:competitor:71034,"Sramkova, Rebecca",Slovakia,SVK,SRA
+2,WTA,2025,6,women,476,0,131,2,sr:competitor:19704,"Martic, Petra",Croatia,HRV,MAR
+2,WTA,2025,6,women,477,109,131,13,sr:competitor:264863,"Novak, Kristina",Slovenia,SVN,NOV
+2,WTA,2025,6,women,478,-1,131,13,sr:competitor:915371,"van Den Broek, Isis Louise",Netherlands,NLD,VAN
+2,WTA,2025,6,women,479,1,130,11,sr:competitor:784280,"Prozorova, Tatiana",Neutral,,PRO
+2,WTA,2025,6,women,480,2,129,4,sr:competitor:46651,"Melnikova, Marina",Neutral,,MEL
+2,WTA,2025,6,women,481,2,129,15,sr:competitor:827398,"Stankovic, Anja",Serbia,SRB,STA
+2,WTA,2025,6,women,482,45,129,15,sr:competitor:849553,"Yao, Xinxin",China,CHN,YAO
+2,WTA,2025,6,women,483,1,128,4,sr:competitor:343160,"Volynets, Katie",USA,USA,VOL
+2,WTA,2025,6,women,484,1,128,9,sr:competitor:686597,"Pavlova, Kira",Neutral,,PAV
+2,WTA,2025,6,women,485,1,128,10,sr:competitor:833330,"Grechkina, Anastasia",Neutral,,GRE
+2,WTA,2025,6,women,486,44,127,9,sr:competitor:494296,"Steur, Joelle Lilly Sophie",Germany,DEU,STE
+2,WTA,2025,6,women,487,0,127,21,sr:competitor:447759,"Katsumi, Nanari",Japan,JPN,KAT
+2,WTA,2025,6,women,488,0,126,4,sr:competitor:39425,"Savinykh, Valeria",Neutral,,SAV
+2,WTA,2025,6,women,489,0,126,26,sr:competitor:69964,"Estable, Julieta Lara",Argentina,ARG,EST
+2,WTA,2025,6,women,490,0,126,9,sr:competitor:18350,"Voracova, Renata",Czechia,CZE,VOR
+2,WTA,2025,6,women,491,3,126,12,sr:competitor:840734,"Walker, Brandy",USA,USA,WAL
+2,WTA,2025,6,women,492,-1,125,6,sr:competitor:60276,"Podoroska, Nadia",Argentina,ARG,POD
+2,WTA,2025,6,women,493,-1,125,11,sr:competitor:759784,"El Aouni, Aya",Morocco,MAR,EL
+2,WTA,2025,6,women,494,-1,125,10,sr:competitor:378226,"Crawley, Fiona",USA,USA,CRA
+2,WTA,2025,6,women,495,0,125,12,sr:competitor:262701,"Hodzic, Mina",Germany,DEU,HOD
+2,WTA,2025,6,women,496,1,124,4,sr:competitor:32862,"Diatchenko, Vitalia",Neutral,,DIA
+2,WTA,2025,6,women,497,-38,124,14,sr:competitor:230108,"McGiffin, Tenika",Australia,AUS,MCG
+2,WTA,2025,6,women,498,0,124,15,sr:competitor:720627,"Senic, Natalija",Serbia,SRB,SEN
+2,WTA,2025,6,women,499,0,124,21,sr:competitor:360054,"Allen, Kolie",USA,USA,ALL
+2,WTA,2025,6,women,500,4,123,5,sr:competitor:90814,"Teichmann, Jil",Switzerland,CHE,TEI

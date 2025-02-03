@@ -9,10 +9,11 @@ def fetch_data(engine, query):
 
 # Country-Wise Analysis
 def country_analysis(engine):
-
+    st.title("Country-Wise Analysis🌍")
     country_data = fetch_data(engine, """
     SELECT country_name, COUNT(*) AS total_competitors, AVG(points) AS average_points
     FROM Competitors
     GROUP BY country_name
     """)
     st.dataframe(country_data)
+   

@@ -38,21 +38,24 @@ Follow these steps to set up and run the project:
 - **Visualization:** Create interactive visualizations and dashboards using Streamlit.
 - **User Interaction:** Allow users to search, filter, and explore the data through an intuitive interface.
 
-## Demo Walkthrough
-1. **Homepage:**
-   - Overview of the project and key statistics.
+## Features
 
-2. **Search & Filter Competitors:**
-   - Ability to search and filter competitors by name, rank, country, points, gender, year, venue, and complex.
-
-3. **Competitor Details:**
-   - Detailed information about each competitor.
-
-4. **Country Analysis:**
-   - Analysis of competitors by country.
-
-5. **Leaderboards:**
-   - View top competitors in various categories.
-
-
-
+- **Navigation Menu**: Provides easy access to different sections:
+  1. **Home**:
+  - Displays a welcoming message and key statistics.
+  - Total Competitors: 1000
+  - Total Countries Represented: 79
+  - Highest Points Scored: 10750
+  2. **Search & Filter**
+  - Ability to search and filter competitors by name, rank, country, points, gender, year, venue, and complex.
+  - Allows users to filter and search competitors based on various criteria such as gender, year, country, name, points threshold, and rank range.
+  3. **Leaderboard Analysis**
+  - Display Country-wise Analysis, Top-Ranked Competitors and Competitors with Highest Points
+  4. **Competition Analysis**
+  - Display Competitions List, Competition Stats, Doubles Competitions, Search by Category and Analyze Distribution of Competition Types
+  5. **Complexes Analysis**
+  - Display List Venues with Complex Names, Count Venues in Each Complex, Venues in a Specific Country, Identify Venues and Timezones, Find Complexes with More Than One Venue, List Venues Grouped by Country and Venues in a Specific Complex 
+  6. **Competitor Analysis**
+  - Get All Competitors with Rank and Points, Find Competitors Ranked in the Top 5, List Competitors with No Rank Movement (Stable Rank), Get Total Points of Competitors from a Specific Country, Count the Number of Competitors per Country and Find Competitors with the Highest Points in the Current Week
+  7. **Overview and About**
+  -Project Summary and Details, Skills Takeaway From This Project, Domain, Technical tags and Problem Statement

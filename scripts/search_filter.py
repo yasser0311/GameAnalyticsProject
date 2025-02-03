@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine
+import base64
 
 # Function to fetch data from the database
 def fetch_data(engine, query):
@@ -8,24 +9,33 @@ def fetch_data(engine, query):
         result = pd.read_sql(query, connection)
     return result
 
-# Custom CSS to style the app
+# Function to add custom CSS
 def add_custom_css():
+    image_file_path = "D:\\MTDM37\\MTDM37\\resources\\tennis2.jpg"
+    with open(image_file_path, "rb") as image_file:
+        encoded_image = base64.b64encode(image_file.read()).decode()
     st.markdown(
-        """
+        f"""
         <style>
-        .main {
-            background-color: #0FA4AF;
-        }
-        .stButton button {
+        .stApp {{
+            background-image: url("data:image/jpg;base64,{encoded_image}");
+            background-size: cover;
+        }}
+        .main {{
+            background-color: rgba(255, 255, 255, 0.5); /* More transparent main content */
+            border-radius: 10px;
+            padding: 10px;
+        }}
+        .stButton button {{
             background-color: #4CAF50;
             color: white;
-        }
-        .stExpander {
+        }}
+        .stExpander {{
             border: none;
-        }
-        .stSelectbox, .stSlider, .stTextInput {
+        }}
+        .stSelectbox, .stSlider, .stTextInput {{
             border: none;
-        }
+        }}
         </style>
         """,
         unsafe_allow_html=True
@@ -72,15 +82,18 @@ def search_and_filter(engine):
         if name:
             query += f" AND competitor_name LIKE '%{name}%'"
 
-    st.subheader("Filter by Points Threshold 🔢")
-    points_threshold = st.slider("Select Points Threshold", 0, 10000, 500)
-    if points_threshold:
-        query += f" AND points >= {points_threshold}"
+    col5, col6 = st.columns(2)
+    with col5:
+        st.subheader("Filter by Points Threshold 🔢")
+        points_threshold = st.slider("Select Points Threshold", 0, 10000, 500)
+        if points_threshold:
+            query += f" AND points >= {points_threshold}"
     
-    st.subheader("Filter by Rank Range ↔️")
-    rank_range = st.slider("Select Rank Range", 1, 100, (1, 10))
-    if rank_range:
-        query += f" AND rank BETWEEN {rank_range[0]} AND {rank_range[1]}"
+    with col6:
+        st.subheader("Filter by Rank Range ↔️")
+        rank_range = st.slider("Select Rank Range", 1, 100, (1, 10))
+        if rank_range:
+            query += f" AND rank BETWEEN {rank_range[0]} AND {rank_range[1]}"
     
     filtered_data = fetch_data(engine, query)
     st.dataframe(filtered_data)
@@ -91,4 +104,3 @@ if __name__ == "__main__":
     database_url = "sqlite:///D:\\MTDM37\\MTDM37\\data\\sports.db"
     engine = create_engine(database_url)
     search_and_filter(engine)
-
