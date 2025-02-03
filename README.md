@@ -2,10 +2,10 @@
 
 Project Title [Game Analytics: Unlocking Tennis Data with SportRadar API]
 
-Welcome to the Game Analytics Project! This repository provides insightful data analysis and visualization for a variety of sports-related data.
+Welcome to the Game Analytics Project! This repository provides insightful data analysis and visualization for Tennis sports-related data.
 
 ## Project Overview
-The SportRadar Event Explorer project is dedicated to creating a robust solution for managing, visualizing, and analyzing sports competition data sourced from the Sportradar API. This application will handle the parsing of JSON data, organize the structured information in a relational database, and offer clear insights into tournaments, competition hierarchies, and specific event details. This project aims to support sports enthusiasts, analysts, and organizations in better understanding competition structures and trends while enabling interactive exploration of detailed event information. It is built using Streamlit for the front end and SQLite for the backend database.
+Game Analytics: Unlocking Tennis Data with SportRadar API project is dedicated to creating a robust solution for managing, visualizing, and analyzing sports competition data sourced from the Sportradar API. This application will handle the parsing of JSON data, organize the structured information in a relational database, and offer clear insights into tournaments, competition hierarchies, and specific event details. This project aims to support sports enthusiasts, analysts, and organizations in better understanding competition structures and trends while enabling interactive exploration of detailed event information. It is built using Streamlit for the front end and SQLite for the backend database.
 
 ## Setup Instructions
 Follow these steps to set up and run the project:
