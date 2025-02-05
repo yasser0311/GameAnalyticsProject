@@ -99,9 +99,7 @@ def complexes_analysis(engine):
             query1 = '''
             SELECT 
                 v.venue_id, 
-                v.venue_name, 
-                v.city_name, 
-                v.country_name, 
+                v.venue_name,  
                 v.timezone, 
                 c.complex_name 
             FROM Venues v
@@ -132,9 +130,7 @@ def complexes_analysis(engine):
                 query3 = '''
                 SELECT 
                     venue_id, 
-                    venue_name, 
-                    city_name, 
-                    country_name, 
+                    venue_name,  
                     country_code, 
                     timezone, 
                     complex_id 
@@ -145,9 +141,7 @@ def complexes_analysis(engine):
                 query3 = '''
                 SELECT 
                     venue_id, 
-                    venue_name, 
-                    city_name, 
-                    country_name, 
+                    venue_name,  
                     country_code, 
                     timezone, 
                     complex_id 
@@ -188,7 +182,9 @@ def complexes_analysis(engine):
         elif report_type == "List Venues Grouped by Country":
             query6 = '''
             SELECT 
-                country_name, 
+                venue_id, 
+                venue_name,
+                country_code, 
                 COUNT(venue_id) AS venue_count 
             FROM Venues 
             GROUP BY country_name;
@@ -206,8 +202,7 @@ def complexes_analysis(engine):
                 SELECT 
                     v.venue_id, 
                     v.venue_name, 
-                    v.city_name, 
-                    v.country_name, 
+                    v.country_code, 
                     v.timezone 
                 FROM Venues v
                 JOIN Complexes c ON v.complex_id = c.complex_id;
@@ -217,9 +212,8 @@ def complexes_analysis(engine):
                 query7 = '''
                 SELECT 
                     v.venue_id, 
-                    v.venue_name, 
-                    v.city_name, 
-                    v.country_name, 
+                    v.venue_name,  
+                    v.country_code, 
                     v.timezone 
                 FROM Venues v
                 JOIN Complexes c ON v.complex_id = c.complex_id

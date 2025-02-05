@@ -48,6 +48,8 @@ def leaderboards(engine):
     # Top-ranked competitors
     st.title("Top-Ranked Competitors🏅")
     top_ranked = fetch_data(engine, "SELECT * FROM Competitors ORDER BY rank ASC LIMIT 10")
+    # Remove the 'movement' column
+    top_ranked = top_ranked.drop(columns=['movement'])
     st.dataframe(top_ranked)
 
     # Competitors with the highest points

@@ -57,7 +57,7 @@ def search_and_filter(engine):
     col1, col2 = st.columns(2)
     with col1:
         with st.expander("Filter by Gender 🧑‍🤝‍🧑"):
-            gender = st.selectbox("Select Gender", ['All', 'men', 'women'], key='gender')
+            gender = st.selectbox("Select Gender", ['All', 'men', 'women', 'mixed'], key='gender')
             if gender != 'All':
                 query += f" AND gender = '{gender}'"
     
